@@ -6,7 +6,8 @@ tagline: AG Imkeller
 # description: >
 #  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: ""
-url: "https://www.csrhymes.com"
+url: "https://agimkeller.github.io"
+domain: agimkeller.github.io
 permalink: pretty
 favicon: /img/logos/logo_receptor.png
 gh_user: AGImkeller

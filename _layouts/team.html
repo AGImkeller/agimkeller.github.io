@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<div class="columns is-multiline">
+
+    <div class="column is-6">
+        <figure class="image is-4by3">
+            <img src="{{ page.image }}" 
+            style="object-fit: cover;position: absolute;"/>
+        </figure>
+    </div>
+
+    <div class="column is-6">
+        <p class="title is-3">{{ page.title }}</p>
+        <p class="subtitle is-3">{{ page.subtitle }}</p>
+        
+        
+        {% if page.features %}
+        <div class="content">
+            {% for feature in page.features %}
+            <p>
+                <span class="icon">
+                    {% if feature.icon %}
+                        {% if feature.icon_brand %}
+                            <i class="fab {{ feature.icon }}"></i>
+                        {% else %}
+                            <i class="fas {{ feature.icon }}"></i>
+                        {% endif %}
+                    {% else %}
+                    <i class="fas fa-circle fa-xs"></i>
+                    {% endif %}
+                </span> 
+                <span>
+                {% if feature.link %}
+                     <a href="{{ feature.link | relative_url }}" >{{ feature.label }}</a>
+                {% else %}
+                     {{ feature.label }}
+                {% endif %}
+                </span></p>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+
+    <div class="column is-12">
+        <div class="content">
+            
+    
+            {{ content }}
+        </div>
+    </div>
+
+    {% if site.data.reviews[page.product_code] %}
+    <div class="column is-12">
+        <p class="title is-4">Reviews</p>
+        {% for review in site.data.reviews[page.product_code] %}
+        {% include review.html %}
+        {% endfor %}
+    </div>
+    {% endif %}
+
+</div>
+

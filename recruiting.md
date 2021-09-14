@@ -17,9 +17,9 @@ We are recruiting PhD students interested in developing and applying mathematica
 - analysis of adaptive immune receptor sequences (B cell and T cell receptors)
 - interdisciplinary collaborative research projects (tumor immunology and immunotherapy)
 
-[Job opening Nr. 488-2021](/documents/PhD_Computational_Immunology_488-2021.pdf) (deadline October 8th, 2021)
+[Job opening Nr. 488-2021](/documents/KGU_PhD_Imkeller_488_2021.pdf) (deadline October 8th, 2021)
 
-Please apply through the online portal and upload cover letter, CV, transcripts of records and the names of 2 references. Use the following link to upload your documents: https://www.kgu.de/index.php?id=12055.
+Please apply through the online portal and upload cover letter, CV, transcripts of records and the names of 2 references. Use the following link to upload your documents: [https://www.kgu.de/index.php?id=12055](https://www.kgu.de/index.php?id=12055).
 
 -----------------------------
 

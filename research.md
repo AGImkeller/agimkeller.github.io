@@ -3,8 +3,8 @@ title: Our Research
 subtitle: Group of Computational Immunology
 layout: page
 show_sidebar: false
+#hero_height: is-small
 hero_image: /img/background/tissue.jpg
-gallery: research_gallery
 ---
 
 Our immune system is a powerful and versatile weapon to combat invading pathogens and emerging tumors. However, both pathogens and tumor cells frequently develop strategies to evade the elimination by immune cells. 

@@ -6,9 +6,6 @@ show_sidebar: false
 hero_image: /img/background/frankfurt.jpg
 ---
 
-
-------------------------
-
 ## PhD positions
 
 We are recruiting PhD students interested in developing and applying mathematical and computational methods to understand tumor-immune interactions. The candidates should have a background in computational biology, bioinformatics, biophysics or related fields. Biologists or medical doctors with excellent programming skills are encouraged to apply.
@@ -20,7 +17,9 @@ We are recruiting PhD students interested in developing and applying mathematica
 - analysis of adaptive immune receptor sequences (B cell and T cell receptors)
 - interdisciplinary collaborative research projects (tumor immunology and immunotherapy)
 
-Please apply through the portal using the following link: TBD.
+[Job opening Nr. 488-2021](/documents/PhD_Computational_Immunology_488-2021.pdf) (deadline October 8th, 2021)
+
+Please apply through the online portal and upload cover letter, CV, transcripts of records and the names of 2 references. Use the following link to upload your documents: https://www.kgu.de/index.php?id=12055.
 
 -----------------------------
 

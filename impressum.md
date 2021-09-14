@@ -7,7 +7,7 @@ hide_hero: true
 
 ## Impressum
 
-Katharina Imkeller, Heinrich-Hoffmann Strasse 7, 60528 Frankfurt am Main
+Katharina Imkeller, Theodor-Stern-Kai 7, 60590 Frankfurt am Main
 
 **Kontakt:** [Katharina Imkeller](/team/imkeller)
 

@@ -9,7 +9,7 @@ hero_image: /img/background/tissue.jpg
 
 Our immune system is a powerful and versatile weapon to combat invading pathogens and emerging tumors. However, both pathogens and tumor cells frequently develop strategies to evade the elimination by immune cells. 
 
-Immunotherapies, which activate immune responses againsts tumors, hold the potential to induce durable therapeutic success. Currently only a small fraction of patients respond to these treatments and it is very difficult to predict therapy resistance. The mechanisms of resistance to immunotherapy are multifaceted and arise from tumor intrinsic factors but also from the complex interplay between a cancer and its microenvironment. 
+Immunotherapies, which activate immune responses against tumors, hold the potential to induce durable therapeutic success. Currently only a small fraction of patients respond to these treatments and it is very difficult to predict therapy resistance. The mechanisms of resistance to immunotherapy are multifaceted and arise from tumor intrinsic factors but also from the complex interplay between a cancer and its microenvironment. 
 
 The group of Computational Immunology applies mathematical and computational methods to multi-dimensional immunological and molecular data and thereby seeks to understand **inter- and intra-individual heterogeneity of tumor-immune interactions** in humans. Our aim is to develop a quantitative and patient-specific understanding of tumor-immune interactions on a cellular and antigen-specific level with the ultimate goal to improve patient care. In our interdisciplinary research we closely collaborate with experimentalists and clinicians interested in **tumor immunology and immunotherapy**.
 

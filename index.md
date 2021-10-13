@@ -24,7 +24,7 @@ show_sidebar: false
 
 * [Mildred Scheel Career Center Frankfurt (Deutsche Krebshilfe)](https://www.uct-frankfurt.de/msnz.html){:target="_blank"}
 * [Neurological Insitute / Edinger Institute, Universitätsklinikum Frankfurt](https://www.kgu.de/einrichtungen/institute/neurologisches-institut-edinger-institut/forschung){:target="_blank"}
-* [Frankfurt Frankfurt Cancer Institute](https://fci.health/en/immunomonitoring/){:target="_blank"}
+* [Frankfurt Cancer Institute](https://fci.health/en/immunomonitoring/){:target="_blank"}
 * [University Cancer Center Frankfurt](https://www.uct-frankfurt.de/){:target="_blank"}
 
 [<img src="/img/logos/1200px-Deutsche_Krebshilfe_Logo.svg.png" 

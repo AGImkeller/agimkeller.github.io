@@ -20,17 +20,17 @@ show_sidebar: false
 
         {% if product.image %}
         <div class="card-image">
-          <figure class="image is-4by3">
+          <figure class="image is-4by4">
             <img src="{{ product.image }}"      
-            style="width: 400px; height: 235px; margin: 10px 15px 5px 5px;"  
+            style="width: 400px; height: 400px; margin: 17px 17px 17px 17px;"  
             alt="{{ product.title }}" />
           </figure>
         </div>
         {% endif %}
         <div class="card-content">
 
-          <p class="title is-4">{{ product.title }}</h2>
-          <p class="subtitle is-4">{{ product.subtitle }}</p>  
+          <p class="title is-5">{{ product.title }}</h2>
+          <p class="subtitle is-5">{{ product.subtitle }}</p>  
           <p class="title is-5 has-text-right">{{ product.price }}</p>
 
         </div>

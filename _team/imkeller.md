@@ -4,7 +4,7 @@ subtitle: Principal Investigator
 layout: team
 image: /img/team/katharina.jpg
 features:
-    - label: ag.imkeller | gmail.com
+    - label: katharina.imkeller | kgu.de
       icon: fa-envelope
     - label: imkeller
       link: https://github.com/imkeller

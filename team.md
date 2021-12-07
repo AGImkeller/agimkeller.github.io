@@ -7,4 +7,3 @@ hero_image: /img/background/schwarm.jpg
 sort: title
 ---
 
-Under construction

@@ -31,13 +31,13 @@ We offer jobs for student assistants to work in an exciting and interdisciplinar
 - development of interactive visualization tools for our collaborative research projects
 - data management and software maintenance
 
-Applications via email to [Katharina Imkeller](/team/imkeller/){:target="_blank"} - please include a motivation letter, CV and transcripts of records.
+Applications via email to ag.imkeller(at)gmail.com - please include a motivation letter, CV and transcripts of records.
 
 ----------------------------
 
 ## Thesis projects (BSc/MSc) and student internships
 
-We offer internships, Bachelor's and Master's theses in different research areas of computational immunology. Applications via email to [Katharina Imkeller](/team/imkeller/){:target="_blank"} - please include a motivation letter, CV and transcripts of records.
+We offer internships, Bachelor's and Master's theses in different research areas of computational immunology. Applications via email to ag.imkeller(at)gmail.com - please include a motivation letter, CV and transcripts of records.
 
 
 ----------------------------

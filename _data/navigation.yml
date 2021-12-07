@@ -1,7 +1,7 @@
 - name: Research
   link: /research/
-#- name: Team
-#  link: /team/
+- name: Team
+  link: /team/
 - name: Open positions
   link: /recruiting/
 #- name: Software

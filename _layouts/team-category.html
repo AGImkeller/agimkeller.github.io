@@ -12,17 +12,17 @@ show_sidebar: false
   {% assign sorted_products = site.team | sort:page.sort %}
 
   {% for product in sorted_products %}
-  <div class="column is-4-desktop is-6-tablet">
+  <div class="column is-3-desktop is-3-tablet">
 
     <a href="{{ product.url | relative_url }}">
 
-      <div class="card">
+      <div class="card ">
 
         {% if product.image %}
         <div class="card-image">
           <figure class="image is-4by4">
             <img src="{{ product.image }}"      
-            style="width: 400px; height: 400px; margin: 17px 17px 17px 17px;"  
+            style="object-fit: cover;position: static; width: 400px; height: 400px;"  
             alt="{{ product.title }}" />
           </figure>
         </div>

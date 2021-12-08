@@ -28,12 +28,12 @@ The group of Computational Immunology applies mathematical and computational met
     </div>
     <div class="card-image">
         <img src="/img/science/hlaa_coverage_prediction_map.jpg" 
-            width="400" height="250" style="margin:0px 20px 20px 20px" />
+            width="400" height="250" style="margin:0px 20px 20px 20px; object-fit: cover; position: static;" />
     </div>
 </div>
 </div>
 
-<div class="column is-5-desktop is-8-tablet">
+<div class="column is-5-desktop is-7-tablet">
  <div class="card">
      <div class="card-content">
         <div class="content">

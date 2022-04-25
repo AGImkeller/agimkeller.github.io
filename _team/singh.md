@@ -2,7 +2,7 @@
 title: Aakanksha Singh
 subtitle: PhD Student
 layout: team
-image: /img/team/Aakanksha.jpg
+image: /img/team/Aakanksha.png
 features:
     - label: aakanksha.singh | kgu.de
       icon: fa-envelope

@@ -2,7 +2,7 @@
 title: Katharina Imkeller
 subtitle: Principal Investigator
 layout: team
-image: /img/team/katharina.jpg
+image: /img/team/imkeller.jpg
 features:
     - label: katharina.imkeller | kgu.de
       icon: fa-envelope

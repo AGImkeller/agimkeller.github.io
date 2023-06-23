@@ -23,4 +23,4 @@ MSc Student, Group of Social Evolution, University of Lausanne, Switzerland
 
 **Education**\\
 Erasmus Mundus Masters in Evolutionary Biology, University of Groningen (The Netherlands) and University of Montpellier (France)
-BSc(Hons) Zoology, University of Delhi
+BSc (Hons) Zoology, University of Delhi (India)

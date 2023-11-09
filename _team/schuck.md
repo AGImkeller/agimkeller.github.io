@@ -1,6 +1,6 @@
 ---
 title: Jonas Schuck
-subtitle: Research Intern
+subtitle: PhD student
 layout: team
 image: /img/team/jonas.jpg
 features:
@@ -17,5 +17,5 @@ hide_hero: true
 ## Short Curriculum Vitae
 
 **Education**\\
-Currently: Master of Science in Bioinformatics, Goethe University Frankfurt\\
+Master of Science in Bioinformatics, Goethe University Frankfurt\\
 Bachelor of Science in Applied Bioinformatics, Technische Hochschule Bingen

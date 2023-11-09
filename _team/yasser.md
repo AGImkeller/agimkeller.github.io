@@ -18,4 +18,4 @@ hide_hero: true
 
 **Education**\\
 Current: Master of Physical Biology of Cells and Cell Interactions, Goethe University, Frankfurt am Main\\
-Bachelor of Biotechnology, Misr University for Science and Technology, Egypt\\
+Bachelor of Biotechnology, Misr University for Science and Technology, Egypt

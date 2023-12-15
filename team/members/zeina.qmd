@@ -1,0 +1,56 @@
+---
+title: "Zeina Yasser"
+image: "../../img/Zeina.jpeg"
+page-layout: custom
+abstract: "Student Assistant"
+date: 05-01-2023
+about:
+  template: trestles
+comments: false
+format:
+  html:
+    css: style.scss
+---
+
+
+::: {.grid}
+
+::: {.g-col-5}
+\
+\
+
+
+<div class="vertical-line">
+</div>
+
+<div  class="content">
+
+  <img src="../../img/Zeina.jpeg" alt="Avatar"> 
+
+  <center>
+  <a class="button-linkedin" href="https://www.linkedin.com/in/zeina-yasserr/" role="button"><i class="bi-linkedin"></i> Zeina Yasser</a>
+  <a class="button-mail" role="button"><i class="bi-envelope"></i> mahmoud | med.uni-frankfurt.de</a>
+  </center>
+  
+</div>
+
+:::
+
+
+::: {.g-col-5}
+
+<p>&emsp;</p>
+
+# Zeina Yasser
+
+## Research
+**Student Assistant at Edinger Institute**, University Clinic Frankfurt am Main
+
+
+## Education
+**Current: Master of Physical Biology of Cells and Cell Interactions**, Goethe University, Frankfurt am Main \
+**Bachelor of Biotechnology**, Misr University for Science and Technology, Egypt
+
+:::
+
+:::

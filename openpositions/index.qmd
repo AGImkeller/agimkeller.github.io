@@ -1,0 +1,32 @@
+# Open Positions
+
+## Research Positions
+
+**Data scientist/bioinformatician** [(AN: 1081-2023)](https://short.sg/j/39410906) \
+**Research technician - Quantitative Immunology** [(AN: 1079-2023)](https://short.sg/j/39413244) \
+**Post-doctoral researcher - Quantitative Immunology** [(AN: 1080-2023)](https://short.sg/j/39414511)
+
+## Student assistants (HiWi, 10-20h/week)
+
+We offer jobs for student assistants to work in an exciting and interdisciplinary environment and directly contribute to our current research projects. Candidates should have hands-on experience in programming (R or python) and linux operating systems.
+
+**Research tasks:**
+
+- software development and data analysis for our ongoing research projects
+- development of interactive visualization tools for our collaborative research projects
+- data management and software maintenance
+
+Applications via email to [ag.imkeller | gmail.com](mailto:ag.imkeller@gmail.com) - please include a motivation letter, CV and transcripts of records.
+
+## Thesis projects (BSc/MSc) and student internships
+
+We offer internships, Bachelor’s and Master’s theses in different research areas of computational immunology. \
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="button-52" href="../projects/index.qmd" role="button" target="_blank" style="link-color: black; link-hover-decoration: none; color: black;">Older Projects</a>
+</div>
+
+```
+
+Applications via email to [ag.imkeller | gmail.com]() - please include a motivation letter, CV and transcripts of records.

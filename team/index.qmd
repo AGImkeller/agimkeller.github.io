@@ -1,0 +1,53 @@
+---
+listing:
+  id: team
+  contents:
+    - "members"
+  fields: [image, title, description]
+  max-description-length: 100
+  type: grid
+  grid-columns: 3
+  image-height: "true"
+fig-cap-location: bottom
+format:
+  html:
+    css: ../html/styles.scss
+---
+
+
+
+:::{.column-body-outset}
+<div class="container" style="width:100%">
+  <img src="../img/IMG_6770_narrowcrop.jpg" alt="Avatar" class="imgstyle" style="width:100%">
+  <div class="middle" style="color: #EBF8FA; font-weight: bold; background: #1C5F6B">
+  &nbsp; Team in 2022 &nbsp;
+  </div>
+</div>
+:::
+
+## Team
+
+::: {#team}
+:::
+
+## Alumni
+
+**Alexander Schleiter**, Student Assistant \
+**Harshit Jindal**, MSc Student Intern
+
+## Field Trips
+<div class="bodyimgstyle">
+<div class="container" style="width:100%">
+  <img src="../img/brussels_crop.jpg" alt="Avatar" class="imgstyle" style="width:100%">
+  <div class="middle" style="color: #EBF8FA; font-weight: bold; background: #1C5F6B">
+  &nbsp; EuroBioC 2023 Gent &nbsp;
+  </div>
+</div>
+
+<div class="container" style="width:100%">
+  <img src="../img/brussels_crop2.jpg" alt="Avatar" class="imgstyle" style="width:100%">
+  <div class="middle" style="color: #EBF8FA; font-weight: bold; background: #1C5F6B">
+  &nbsp; EuroBioC 2023 Gent &nbsp;
+  </div>
+</div>
+</div>

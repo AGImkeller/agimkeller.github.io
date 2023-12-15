@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../img/logo_receptor.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -61,38 +59,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
@@ -183,55 +150,32 @@ ul.task-list li input[type="checkbox"] {
 </p>
 <section id="phd-projects" class="level2">
 <h2 class="anchored" data-anchor-id="phd-projects">PhD Projects</h2>
-<div id="listing-projects" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1701791076558" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="../projects/projects/immunogenetics.html"> <p class="card-img-top"><img src="../img/immunogenetics.png"  class="thumbnail-image card-img"/></p> </a></p>
+<section id="b-cell-responses-and-tertiary-lymphoid-structures-in-solid-tumours" class="level3">
+<h3 class="anchored" data-anchor-id="b-cell-responses-and-tertiary-lymphoid-structures-in-solid-tumours"><a href="../projects/projects/bcells.html" style="color: #495057;">B cell responses and tertiary lymphoid structures in solid tumours</a></h3>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 66.7%;justify-content: center;">
+<p>The presence of adaptive immune cells in solid tumours is typically associated with improved patient survival and response to immunotherapy. The adaptive anti-tumor immune response extends beyond the paradigm in which CD8 T cells can recognize tumour antigens and eliminate tumour cells by means of cellular cytotoxicity. In fact, a variety of different adaptive immune cells are educated towards tumour antigens in draining lymph nodes or in lymphoid aggregates also known as tertiary lymphoid structures that are formed within a tumour itself. Our research group aims to understand the molecular architecture and cellular dynamics within tertiary lymphoid structures by <a href="../projects/projects/bcells.html">…more</a></p>
 </div>
-<div class="body">
-<a href="../projects/projects/immunogenetics.html">
-<h3 class="no-anchor listing-title">
-Computational method development for human immunogenetics
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-Immune molecules such as B and T cell receptors, human leukocyte antigens (HLAs) and killer Ig-like receptors (KIRs) are encoded in the most diverse genetic loci in the…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../projects/projects/immunogenetics.html"> </a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1701791014548" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="../projects/projects/bcells.html"> <p class="card-img-top"><img src="../img/bcells.png"  class="thumbnail-image card-img"/></p> </a></p>
-</div>
-<div class="body">
-<a href="../projects/projects/bcells.html">
-<h3 class="no-anchor listing-title">
-B cell responses and tertiary lymphoid structures in solid tumours
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-The presence of adaptive immune cells in solid tumours is typically associated with improved patient survival and response to immunotherapy. The adaptive anti-tumor immune…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../projects/projects/bcells.html"> </a>
+<div class="container quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><a href="../projects/projects/bcells.html"><img src="../img/bcells.png" alt="Avatar" style="width:100%"></a></p>
 </div>
 </div>
 </div>
-<div class="listing-no-matching d-none">
-No matching items
+</section>
+<section id="computational-method-development-for-human-immunogenetics" class="level3">
+<h3 class="anchored" data-anchor-id="computational-method-development-for-human-immunogenetics"><a href="../projects/projects/immunogenetics.html" style="color: #495057;">Computational method development for human immunogenetics</a></h3>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 66.7%;justify-content: center;">
+<p>Immune molecules such as B and T cell receptors, human leukocyte antigens (HLAs) and killer Ig-like receptors (KIRs) are encoded in the most diverse genetic loci in the human genome. Bioinformatic methods commonly used to analyse immune responses in large patient cohorts do not take into account this immunogenetic diversity, which leads to erroneous quantification of important immune mediators and impaired inter-donor comparability. Our research group develops robust bioinformatic methods and software tools for reproducible research on human immune responses and immunogenetic diversity in multidimensional immunological datasets. <a href="../projects/projects/immunogenetics.html">…more</a></p>
+</div>
+<div class="container quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><a href="../projects/projects/immunogenetics.html"><img src="../img/immunogenetics.png" alt="Avatar" style="width:100%"></a></p>
 </div>
 </div>
+</div>
+</section>
 </section>
 <section id="bsc-and-msc-projects" class="level2">
 <h2 class="anchored" data-anchor-id="bsc-and-msc-projects">BSc and MSc Projects</h2>
@@ -261,7 +205,6 @@ No matching items
 </tr>
 </tbody>
 </table>
-
 
 
 </section>

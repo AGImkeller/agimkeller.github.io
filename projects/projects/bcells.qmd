@@ -11,14 +11,16 @@ Our research group aims to understand the molecular architecture and cellular dy
 ---
 listing:
   type: grid
+  grid-columns: 4
+  grid-item-align: center
   id: bcells-members
   fields: [image, title]
   image-height: "true"
   contents:
     - "../../team/members/aakanksha.qmd"
-    - "../../team/members/katharina.qmd"
     - "../../team/members/lucie.qmd"
     - "../../team/members/zeina.qmd"
+    - "../../team/members/katharina.qmd"
 ---
 
 ::: {.g-col-12 .g-col-md-6 .animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}

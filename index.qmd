@@ -26,7 +26,7 @@ comments: false
 
 The group of Computational Immunology applies mathematical and computational methods to multi-dimensional immunological and molecular data and thereby seeks to understand inter- and intra-individual heterogeneity of tumor-immune interactions in humans. Our aim is to develop a quantitative and patient-specific understanding of tumor-immune interactions on a cellular and antigen-specific level with the ultimate goal to improve patient care. 
 
-Located at the University Clinic Frankfurt am Main, we closely collaborate with experimentalists and clinicians interested in tumor immunology and immunotherapy. Our work is taking place at Edinger Institute (Neurology Institute) and is closely connected to research in various brain cancers.
+Located at the University Hospital of the Goethe University Frankfurt am Main, we closely collaborate with experimentalists and clinicians interested in tumor immunology and immunotherapy. 
 
 Please [contact us](mailto:ag.imkeller@gmail.com) if you're interested in collaborations or thesis projects (BSc/MSc).
 
@@ -54,8 +54,8 @@ Click [here](projects/index.qmd) to learn more about our latest research project
 
 ::: {.g-col-12 .g-col-md-6 .animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
 ## News
-Dec 1, 2023 --- **Jens Mayer** is our new MSc Intern\
-Nov 1, 2023 --- **Jonas Schuck** is our new PhD Student\
+Dec 1, 2023 --- **Jens Mayer** has joined the group as master student (Bioinformatics).\
+Nov 1, 2023 --- **Jonas Schuck** has started his PhD thesis in our group. \
 \
 
 :::

@@ -29,7 +29,7 @@ format:
 
   <center>
   <a class="button-linkedin" href="https://www.linkedin.com/in/zeina-yasserr/" role="button"><i class="bi-linkedin"></i> Zeina Yasser</a>
-  <a class="button-mail" role="button"><i class="bi-envelope"></i> mahmoud | med.uni-frankfurt.de</a>
+  <a class="button-mail" role="button"><i class="bi-envelope"></i> mahmoud|med.uni-frankfurt.de</a>
   </center>
   
 </div>

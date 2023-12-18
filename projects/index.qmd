@@ -11,7 +11,7 @@ Our immune system is a powerful and versatile weapon to combat invading pathogen
 ### <a href="projects/bcells.qmd" style="color: #495057;">Tertiary lymphoid structures in solid tumours</a>
 ::: {layout="[2, 1]"}
 
-- spatial aspects of tumor-immunity\
+- spatial aspects of the tumor microenvironment\
 - adaptive immune cell repertoires in solid tumours\
 - immune cell interactions and clonal dynamics\
 [... more](projects/bcells.qmd)

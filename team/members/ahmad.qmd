@@ -28,7 +28,7 @@ format:
 
   <center>
   <a class="button-linkedin" href="https://www.linkedin.com/in/ahmad-al-ajami-2ba577168/s" role="button"><i class="bi-linkedin"></i> Ahmad Al Ajami</a>
-  <a class="button-mail" role="button"><i class="bi-envelope"></i> alajami | rz.uni-frankfurt.de</a>
+  <a class="button-mail" role="button"><i class="bi-envelope"></i> alajami|rz.uni-frankfurt.de</a>
   </center>
   
 </div>

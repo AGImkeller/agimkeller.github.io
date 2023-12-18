@@ -29,7 +29,7 @@ format:
   <center>
   <a class="button-linkedin" href="https://www.linkedin.com/in/aakanksha-singh-a1b850139/" role="button"><i class="bi-linkedin"></i> Aakanksha Singh</a>
   <a class="button-page" href="https://aasingh2.github.io/" role="button"><i class="bi-file-person-fill"></i> CV</a>
-  <a class="button-mail" role="button"><i class="bi-envelope"></i> a.singh | med.uni-frankfurt.de</a>
+  <a class="button-mail" role="button"><i class="bi-envelope"></i> a.singh|med.uni-frankfurt.de</a>
   </center>
   
 </div>

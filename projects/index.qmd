@@ -12,15 +12,16 @@ We use quantitative approaches to study the heterogeneity of human immune respon
 Our immune system is a powerful and versatile weapon to combat invading pathogens and emerging tumors. However, both pathogens and tumor cells frequently develop strategies to evade the elimination by immune cells. The mechanisms of tumour-immune evasion are multifaceted and arise from tumor intrinsic factors but also from the complex interplay between a cancer and its microenvironment.\
 \
 
-## PhD Projects
+## Research Projects
 
 ::: {#projects}
 :::
+
 
 ## BSc and MSc Projects
 
 
 | **Title**                                                                                                                                               | **Author**        | **Study Programme**                    |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|----------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------|---------------------------------------------------|
 | Linking Adaptive Immune Receptor Repertoires to Spatial Organization of Tumor Infiltrating Lymphocytes                                                  | Lucie Marie Hasse | BSc Bioinformatics (Goethe University) |
 | Development of a multi-layer R object to study immune gene expression in spatial (and single-cell) transcriptomics at allele, gene and functional level | Jonas Schuck      | MSc Bioinformatics (Goethe University) |

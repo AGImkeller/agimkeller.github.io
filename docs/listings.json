@@ -1,0 +1,37 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/projects/projects/bcells.html",
+      "/projects/projects/immunogenetics.html"
+    ]
+  },
+  {
+    "listing": "/team/index.html",
+    "items": [
+      "/team/members/aakanksha.html",
+      "/team/members/ahmad.html",
+      "/team/members/jonas.html",
+      "/team/members/katharina.html",
+      "/team/members/lucie.html",
+      "/team/members/zeina.html"
+    ]
+  },
+  {
+    "listing": "/projects/projects/bcells.html",
+    "items": [
+      "/team/members/aakanksha.html",
+      "/team/members/katharina.html",
+      "/team/members/lucie.html",
+      "/team/members/zeina.html"
+    ]
+  },
+  {
+    "listing": "/projects/projects/immunogenetics.html",
+    "items": [
+      "/team/members/ahmad.html",
+      "/team/members/jonas.html",
+      "/team/members/katharina.html"
+    ]
+  }
+]

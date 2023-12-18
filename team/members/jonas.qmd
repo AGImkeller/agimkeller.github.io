@@ -1,0 +1,56 @@
+---
+title: "Jonas Schuck"
+image: "../../img/jonas.jpg"
+abstract: "PhD Student"
+page-layout: custom
+date: 11-01-2023
+about:
+  template: trestles
+comments: false
+format:
+  html:
+    css: style.scss
+---
+
+
+::: {.grid}
+
+::: {.g-col-5}
+\
+\
+
+
+<div class="vertical-line">
+</div>
+
+<div  class="content">
+
+  <img src="../../img/jonas.jpg" alt="Avatar"> 
+
+  <center>
+  <a class="button-linkedin" href="https://www.linkedin.com/in/jonas-schuck-9b519a220/" role="button"><i class="bi-linkedin"></i> Jonas Schuck</a>
+  <a class="button-github" href="https://github.com/Jonas-Schuck" role="button"><i class="bi-github"></i> jonas-schuck</a>
+  <a class="button-mail" role="button"><i class="bi-envelope"></i> schuck|med.uni-frankfurt.de</a>
+  </center>
+  
+</div>
+
+:::
+
+
+::: {.g-col-5}
+
+<p>&emsp;</p>
+
+# Jonas Schuck
+
+## Research
+**PhD Student, Neurologisches Institut (Edinger Institut)**, Universitätsklinikum Frankfurt, Germany
+
+## Education
+**Master of Science in Bioinformatics**, Goethe University Frankfurt \
+**Bachelor of Science in Applied Bioinformatics**, Technische Hochschule Bingen
+
+:::
+
+:::

@@ -1,0 +1,59 @@
+---
+title: "Lucie Marie Hasse"
+page-layout: custom
+image: "../../img/lucie.jpg"
+abstract: "Student Assistant"
+date: 12-01-2021
+about:
+  template: trestles
+comments: false
+format:
+  html:
+    css: style.scss
+---
+
+
+::: {.grid}
+
+::: {.g-col-5}
+\
+\
+
+
+<div class="vertical-line">
+</div>
+
+<div  class="content">
+
+  <img src="../../img/lucie.jpg" alt="Avatar"> 
+
+  <center>
+  <a class="button-linkedin" href="https://www.linkedin.com/in/lucie-marie-hasse-045497256/" role="button"><i class="bi-linkedin"></i> Lucie Marie Hasse</a>
+  <a class="button-github" href="https://github.com/lmhasse" role="button"><i class="bi-github"></i> lmhasse</a>
+  <a class="button-mail" role="button"><i class="bi-envelope"></i> hasse|med.uni-frankfurt.de</a>
+  </center>
+  
+</div>
+
+:::
+
+
+::: {.g-col-5}
+
+<p>&emsp;</p>
+
+# Lucie Marie Hasse
+
+## Research
+**Student Assistant at Edinger Institute**, University Clinic Frankfurt am Main, Germany (2021-now) \
+**Student Intern, Robinson Lab**, Department of Molecular Life Sciences, University of Zurich, Switzerland \
+**Student Intern, Hiller Lab**, LOEWE Centre for translational biodiversity genomics, Frankfurt am Main, Germany \
+
+
+## Education
+**Master of Science in Bioinformatics**, Goethe University Frankfurt,Germany (2023-now) \
+**Bachelor of Science in Bioinformatics**, Goethe University Frankfurt, Germany (2020-2023)
+
+:::
+
+:::

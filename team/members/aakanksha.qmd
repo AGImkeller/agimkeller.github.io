@@ -1,0 +1,58 @@
+---
+title: "Aakanksha Singh"
+image: "../../img/Aakanksha.png"
+abstract: "PhD Student"
+page-layout: custom
+date: 04-01-2022
+about:
+  template: trestles
+comments: false
+format:
+  html:
+    css: style.scss
+---
+
+::: {.grid}
+
+::: {.g-col-5}
+\
+\
+
+
+<div class="vertical-line">
+</div>
+
+<div  class="content">
+
+  <img src="../../img/Aakanksha.png" alt="Avatar"> 
+
+  <center>
+  <a class="button-linkedin" href="https://www.linkedin.com/in/aakanksha-singh-a1b850139/" role="button"><i class="bi-linkedin"></i> Aakanksha Singh</a>
+  <a class="button-page" href="https://aasingh2.github.io/" role="button"><i class="bi-file-person-fill"></i> CV</a>
+  <a class="button-mail" role="button"><i class="bi-envelope"></i> a.singh|med.uni-frankfurt.de</a>
+  </center>
+  
+</div>
+
+:::
+
+
+::: {.g-col-5}
+
+<p>&emsp;</p>
+
+# Aakanksha Singh
+
+## Research
+**PhD Student, Neurologisches Institut (Edinger Institut)**, Universitätsklinikum Frankfurt, Germany \
+**MSc Student, GATAC- Malaria Group at LPHI**, University of Montpelier, France \
+**MSc Student, Group of Social Evolution**, University of Lausanne, Switzerland \
+
+## Education
+**Erasmus Mundus Masters in Evolutionary Biology**, University of Groningen, the Netherlands  \
+**University of Montpellier (France) BSc (Hons) Zoology**, University of Delhi, India
+
+
+:::
+
+:::

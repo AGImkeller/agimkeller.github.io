@@ -1,0 +1,29 @@
+# B cell responses and tertiary lymphoid structures in solid tumours
+
+The presence of adaptive immune cells in solid tumours is typically associated with improved patient survival and response to immunotherapy. The adaptive anti-tumor immune response extends beyond the paradigm in which CD8 T cells can recognize tumour antigens and eliminate tumour cells by means of cellular cytotoxicity. In fact, a variety of different adaptive immune cells are educated towards tumour antigens in draining lymph nodes or in lymphoid aggregates also known as tertiary lymphoid structures that are formed within a tumour itself.
+
+Our research group aims to understand the molecular architecture and cellular dynamics within tertiary lymphoid structures by integrating high-dimensional data from spatial transcriptomics, single-cell transcriptomics and adaptive immune receptor repertoire profiling. We collaborate with multiple clinical partners to study adaptive immune responses in different types of tumours.
+
+<img src="../../img/bcells.png" class="imgstyle" style="height: 100%; width: 100%;"/>
+
+## Contributors
+
+---
+listing:
+  type: grid
+  grid-columns: 4
+  grid-item-align: center
+  id: bcells-members
+  fields: [image, title]
+  image-height: "true"
+  contents:
+    - "../../team/members/aakanksha.qmd"
+    - "../../team/members/lucie.qmd"
+    - "../../team/members/zeina.qmd"
+    - "../../team/members/katharina.qmd"
+---
+
+::: {.g-col-12 .g-col-md-6 .animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
+:::{bcells-members}
+:::
+:::

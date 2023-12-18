@@ -1,0 +1,58 @@
+---
+title: "Ahmad Al Ajami"
+image: "../../img/Ahmad.JPG"
+abstract: "PhD Student"
+page-layout: custom
+date: 03-01-2022
+about:
+  template: trestles
+comments: false
+format:
+  html:
+    css: style.scss
+---
+
+::: {.grid}
+
+::: {.g-col-5}
+\
+\
+
+
+<div class="vertical-line">
+</div>
+
+<div  class="content">
+
+  <img src="../../img/Ahmad.JPG" alt="Avatar"> 
+
+  <center>
+  <a class="button-linkedin" href="https://www.linkedin.com/in/ahmad-al-ajami-2ba577168/s" role="button"><i class="bi-linkedin"></i> Ahmad Al Ajami</a>
+  <a class="button-mail" role="button"><i class="bi-envelope"></i> alajami|rz.uni-frankfurt.de</a>
+  </center>
+  
+</div>
+
+:::
+
+
+::: {.g-col-5}
+
+<p>&emsp;</p>
+
+# Ahmad Al Ajami
+
+## Research
+**PhD Student, Neurologisches Institut (Edinger Institut)**, Universitätsklinikum Frankfurt, Germany \
+**MSc Student, Group of Statistical Bioinformatics**, University of Zürich, Switzerland \
+**MSc Student, Department of Cancer Immunotherapy Discovery**, Roche, Switzerland \
+
+## Education
+**Master of Science in Computational Biology and Bioinformatics**, ETH, Switzerland \
+**Bachelor of Science in Genetics and Bioinformatics**, Bahcesehir University, Turkey \
+**Erasmus Semester**, University of Copenhagen, Denmark \
+**Exchange Student**, Syracuse University, USA
+
+:::
+
+:::

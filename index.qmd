@@ -1,24 +1,7 @@
 ---
 title: "Group of Computational Immunology"
 image: "img/logo_receptor.png"
-listing:
-  - id: projects
-    contents: projects/projects
-    type: default
-    max-items: 3
-    sort: 
-      - "date desc"
-      - "title asc"
-  - id: team_starting
-    contents: team/members
-    type: grid
-    max-items: 3
-    grid-columns: 3
-    image-height: "true"
-    fields: [image, title]
-    sort: 
-      - "date desc"
-      - "title asc"
+
 about:
   template: trestles
   links:
@@ -45,7 +28,7 @@ The group of Computational Immunology applies mathematical and computational met
 
 Located at the University Clinic Frankfurt am Main, we closely collaborate with experimentalists and clinicians interested in tumor immunology and immunotherapy. Our work is taking place at Edinger Institute (Neurology Institute) and is closely connected to research in various brain cancers.
 
-Please feel free to [contact us](mailto:ag.imkeller@gmail.com) if you're interested in collaborations or thesis projects (BSc/MSc).
+Please [contact us](mailto:ag.imkeller@gmail.com) if you're interested in collaborations or thesis projects (BSc/MSc).
 
 
 ```{=html}
@@ -55,6 +38,20 @@ Please feel free to [contact us](mailto:ag.imkeller@gmail.com) if you're interes
 
 ```
 
+
+::: {.g-col-12 .g-col-md-6 .animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
+## Research Projects
+
+We use quantitative approaches to study the heterogeneity of human immune responses in cancer. Our research projects cover different areas of quatitative immunology and oncology:
+
+- B and T cell receptor repertoires, human immunogenetics
+- Spatial dynamics of adaptive tumor-immune interactions
+- Computational method development for human immunology
+
+Click [here](projects/index.qmd) to learn more about our latest research projects.
+
+:::
+
 ::: {.g-col-12 .g-col-md-6 .animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
 ## News
 Dec 1, 2023 --- **Jens Mayer** is our new MSc Intern\
@@ -63,26 +60,10 @@ Nov 1, 2023 --- **Jonas Schuck** is our new PhD Student\
 
 :::
 
-::: {.g-col-12 .g-col-md-6 .animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
-## Projects
 
-Click [here](projects/index.qmd) to learn more about our latest research projects.
-
-::: {#projects}
-:::
-:::
 
 ::: {.g-col-12 .g-col-md-6 .animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
-## New Team Members
-
-Click [here](team/index.qmd) to see our whole team.
-
-::: {#team_starting}
-:::
-:::
-
-::: {.g-col-12 .g-col-md-6 .animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
-## Fundings and Affiliations
+## Funding and Affiliations
  
 <div class="bodyimgstyle">
   <a href="https://www.krebshilfe.de/"><img src="img/1200px-Deutsche_Krebshilfe_Logo.svg.png" alt="Avatar" style="width:40%; margin:10px;"></a>

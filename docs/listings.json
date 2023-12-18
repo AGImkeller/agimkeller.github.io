@@ -3,36 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/projects/projects/bcells.html",
-      "/projects/projects/immunogenetics.html",
-      "/team/members/jonas.html",
-      "/team/members/zeina.html",
-      "/team/members/aakanksha.html",
-      "/team/members/ahmad.html",
-      "/team/members/lucie.html",
-      "/team/members/katharina.html"
-    ]
-  },
-  {
-    "listing": "/projects/index.html",
-    "items": [
-      "/projects/projects/bcells.html",
       "/projects/projects/immunogenetics.html"
-    ]
-  },
-  {
-    "listing": "/projects/immunogenetics.html",
-    "items": [
-      "/team/ahmad.html",
-      "/team/jonas.html"
-    ]
-  },
-  {
-    "listing": "/projects/bcells.html",
-    "items": [
-      "/team/aakanksha.html",
-      "/team/katharina.html",
-      "/team/lucie.html",
-      "/team/zeina.html"
     ]
   },
   {
@@ -59,18 +30,8 @@
     "listing": "/projects/projects/immunogenetics.html",
     "items": [
       "/team/members/ahmad.html",
-      "/team/members/jonas.html"
-    ]
-  },
-  {
-    "listing": "/team/listing_startingpage.html",
-    "items": [
-      "/team/members/aakanksha.html",
-      "/team/members/ahmad.html",
       "/team/members/jonas.html",
-      "/team/members/katharina.html",
-      "/team/members/lucie.html",
-      "/team/members/zeina.html"
+      "/team/members/katharina.html"
     ]
   }
 ]

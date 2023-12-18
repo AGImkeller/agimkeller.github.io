@@ -152,17 +152,18 @@ $btn-code-copy-color-active: $orange !default;
 
 .button-52:after {
   content: "";
-  background-color: #c9f291;
+  background-color: #c8f292;
   width: 100%;
   z-index: -1;
   position: absolute;
   height: 100%;
-  top: 7px;
-  left: 7px;
+  top: 0px;
+  left: 0px;
   transition: 0.2s;
 }
 
 .button-52:hover:after {
+  background-color: #1C5F6B;
   top: 0px;
   left: 0px;
 }

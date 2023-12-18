@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./img/logo_receptor.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -59,66 +57,7 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-team_starting .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-team_starting'] = new List('listing-team_starting', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
@@ -221,10 +160,20 @@ ul.task-list li input[type="checkbox"] {
 <h1>About</h1>
 <p>The group of Computational Immunology applies mathematical and computational methods to multi-dimensional immunological and molecular data and thereby seeks to understand inter- and intra-individual heterogeneity of tumor-immune interactions in humans. Our aim is to develop a quantitative and patient-specific understanding of tumor-immune interactions on a cellular and antigen-specific level with the ultimate goal to improve patient care.</p>
 <p>Located at the University Clinic Frankfurt am Main, we closely collaborate with experimentalists and clinicians interested in tumor immunology and immunotherapy. Our work is taking place at Edinger Institute (Neurology Institute) and is closely connected to research in various brain cancers.</p>
-<p>Please feel free to <a href="mailto:ag.imkeller@gmail.com">contact us</a> if you’re interested in collaborations or thesis projects (BSc/MSc).</p>
+<p>Please <a href="mailto:ag.imkeller@gmail.com">contact us</a> if you’re interested in collaborations or thesis projects (BSc/MSc).</p>
 <div style="margin: 30px; text-align: center;">
 <a class="button-52" href="./openpositions/index.html" role="button" target="_blank" style="link-color: black; link-hover-decoration: none; color: black;">We're hiring!</a>
 </div>
+<section id="research-projects" class="level2 g-col-12 g-col-md-6 animate__animated animate__fadeIn animate__faster animate__delay-1s">
+<h2 data-anchor-id="research-projects">Research Projects</h2>
+<p>We use quantitative approaches to study the heterogeneity of human immune responses in cancer. Our research projects cover different areas of quatitative immunology and oncology:</p>
+<ul>
+<li>B and T cell receptor repertoires, human immunogenetics</li>
+<li>Spatial dynamics of adaptive tumor-immune interactions</li>
+<li>Computational method development for human immunology</li>
+</ul>
+<p>Click <a href="./projects/index.html">here</a> to learn more about our latest research projects.</p>
+</section>
 <section id="news" class="level2 g-col-12 g-col-md-6 animate__animated animate__fadeIn animate__faster animate__delay-1s">
 <h2 data-anchor-id="news">News</h2>
 <p>Dec 1, 2023 — <strong>Jens Mayer</strong> is our new MSc Intern<br>
@@ -232,112 +181,8 @@ Nov 1, 2023 — <strong>Jonas Schuck</strong> is our new PhD Student<br>
 <br>
 </p>
 </section>
-<section id="projects" class="level2 g-col-12 g-col-md-6 animate__animated animate__fadeIn animate__faster animate__delay-1s">
-<h2 data-anchor-id="projects">Projects</h2>
-<p>Click <a href="./projects/index.html">here</a> to learn more about our latest research projects.</p>
-<div id="listing-projects" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1702649491574" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="./projects/projects/bcells.html"> <p class="card-img-top"><img src="img/bcells.png"  class="thumbnail-image card-img"/></p> </a></p>
-</div>
-<div class="body">
-<a href="./projects/projects/bcells.html">
-<h3 class="no-anchor listing-title">
-B cell responses and tertiary lymphoid structures in solid tumours
-</h3>
-<div class="listing-subtitle">
-</div>
-<div class="listing-description">
-The presence of adaptive immune cells in solid tumours is typically associated with improved patient survival and response to immunotherapy. The adaptive anti-tumor immune…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./projects/projects/bcells.html"> </a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1702649491574" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="./projects/projects/immunogenetics.html"> <p class="card-img-top"><img src="img/immunogenetics.png"  class="thumbnail-image card-img"/></p> </a></p>
-</div>
-<div class="body">
-<a href="./projects/projects/immunogenetics.html">
-<h3 class="no-anchor listing-title">
-Computational method development for human immunogenetics
-</h3>
-<div class="listing-subtitle">
-</div>
-<div class="listing-description">
-Immune molecules such as B and T cell receptors, human leukocyte antigens (HLAs) and killer Ig-like receptors (KIRs) are encoded in the most diverse genetic loci in the…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./projects/projects/immunogenetics.html"> </a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-</section>
-<section id="new-team-members" class="level2 g-col-12 g-col-md-6 animate__animated animate__fadeIn animate__faster animate__delay-1s">
-<h2 data-anchor-id="new-team-members">New Team Members</h2>
-<p>Click <a href="./team/index.html">here</a> to see our whole team.</p>
-<div id="listing-team_starting" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1698793200000" data-listing-file-modified-sort="1702649491574" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./team/members/jonas.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./img/jonas.jpg" class="thumbnail-image card-img" style="height: true;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Jonas Schuck
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1682892000000" data-listing-file-modified-sort="1702649491574" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./team/members/zeina.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./img/Zeina.jpeg" class="thumbnail-image card-img" style="height: true;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Zeina Yasser
-</h5>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1648764000000" data-listing-file-modified-sort="1702649491574" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./team/members/aakanksha.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./img/Aakanksha.png" class="thumbnail-image card-img" style="height: true;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Aakanksha Singh
-</h5>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-</section>
-<section id="fundings-and-affiliations" class="level2 g-col-12 g-col-md-6 animate__animated animate__fadeIn animate__faster animate__delay-1s">
-<h2 data-anchor-id="fundings-and-affiliations">Fundings and Affiliations</h2>
+<section id="funding-and-affiliations" class="level2 g-col-12 g-col-md-6 animate__animated animate__fadeIn animate__faster animate__delay-1s">
+<h2 data-anchor-id="funding-and-affiliations">Funding and Affiliations</h2>
 <div class="bodyimgstyle">
 <p><a href="https://www.krebshilfe.de/"><img src="img/1200px-Deutsche_Krebshilfe_Logo.svg.png" alt="Avatar" style="width:40%; margin:10px;"></a> <a href="https://www.kgu.de/"><img src="img/1280px-Logo-Goethe-University-Frankfurt-am-Main.svg.png" alt="Avatar" style="width:30%; margin:10px;"></a> <a href="https://www.uct-frankfurt.de/"><img src="img/csm_LOGO_UCT_4c_fin_fb46359da9.png" alt="Avatar" style="width:40%; margin:10px;"></a> <a href="https://fci.health/en/"><img src="img/FCI-Logo.png" alt="Avatar" style="width:30%; margin:10px;"></a></p>
 </div>

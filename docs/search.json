@@ -1,59 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Listing Example",
-    "section": "",
-    "text": "News\nI am Gandalf the Grey, a renowned wizard and scholar of Middle-earth. Over the centuries, I have dedicated my life to studying the history, languages, and cultures of the peoples of Middle-earth. On this website, I offer a glimpse into my vast body of knowledge, ongoing research, and publications.\nOn this website, you will find a selection of my published works, including scholarly articles, monographs, and translations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about my life’s work as one of Middle-earth’s greatest scholars and thinkers. Please feel free to contact me if you have any questions or would like to discuss potential projects.\n\nWe're hiring!\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nProjects\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "photography/index.html",
-    "href": "photography/index.html",
-    "title": "Photography",
-    "section": "",
-    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitae",
-    "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "We use quantitative approaches to study the heterogeneity of human immune responses in cancer.\nOur immune system is a powerful and versatile weapon to combat invading pathogens and emerging tumors. However, both pathogens and tumor cells frequently develop strategies to evade the elimination by immune cells. The mechanisms of tumour-immune evasion are multifaceted and arise from tumor intrinsic factors but also from the complex interplay between a cancer and its microenvironment."
-  },
-  {
-    "objectID": "projects/index.html#the-languages-of-middle-earth",
-    "href": "projects/index.html#the-languages-of-middle-earth",
-    "title": "Projects",
-    "section": "The Languages of Middle-earth",
-    "text": "The Languages of Middle-earth\n\narXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
-  },
-  {
-    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "title": "Projects",
-    "section": "The History of the War of the Ring",
-    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "index.html#forblog",
-    "href": "index.html#forblog",
+    "objectID": "index.html#news",
+    "href": "index.html#news",
     "title": "Group of Computational Immunology",
-    "section": "ForBlog",
-    "text": "ForBlog\nClick here to check out the latest on the ForBlog."
-  },
-  {
-    "objectID": "index.html#playground",
-    "href": "index.html#playground",
-    "title": "Group of Computational Immunology",
-    "section": "Playground",
-    "text": "Playground\nClick here to play more in the playground."
+    "section": "News",
+    "text": "News\nDec 1, 2023 — Jens Mayer is our new MSc Intern\nNov 1, 2023 — Jonas Schuck is our new PhD Student"
   },
   {
     "objectID": "index.html#projects",
@@ -63,18 +14,11 @@
     "text": "Projects\nClick here to learn more about our latest research projects.\n\n\n\n\n  \n\n\n\n\nB cell responses and tertiary lymphoid structures in solid tumours\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nComputational method development for human immunogenetics\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html#team-members",
-    "href": "index.html#team-members",
+    "objectID": "index.html#fundings-and-affiliations",
+    "href": "index.html#fundings-and-affiliations",
     "title": "Group of Computational Immunology",
-    "section": "Team Members",
-    "text": "Team Members\nClick here to play more in the playground."
-  },
-  {
-    "objectID": "index.html#new-team-members",
-    "href": "index.html#new-team-members",
-    "title": "Group of Computational Immunology",
-    "section": "New Team Members",
-    "text": "New Team Members\nClick here to see our whole team.\n\n\n\n\n\n\n\n\n\n\nJonas Schuck\n\n\n\n\n\n\n\n\n\n\n\n\n\nZeina Yasser\n\n\n\n\n\n\n\n\n\n\n\n\n\nAakanksha Singh\n\n\n\n\n\n\n\nNo matching items"
+    "section": "Fundings and Affiliations",
+    "text": "Fundings and Affiliations"
   },
   {
     "objectID": "team/index.html",
@@ -84,123 +28,74 @@
     "text": "Team in 2022"
   },
   {
-    "objectID": "projects/index.html#computational-method-development-for-human-immunogenetics",
-    "href": "projects/index.html#computational-method-development-for-human-immunogenetics",
-    "title": "Projects",
-    "section": "Computational method development for human immunogenetics",
-    "text": "Computational method development for human immunogenetics\n\narXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "objectID": "team/index.html#team",
+    "href": "team/index.html#team",
+    "title": "AG Imkeller",
+    "section": "Team",
+    "text": "Team\n\n\n\n\n\n\n\n\n\n\nAakanksha Singh\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhmad Al Ajami\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nJonas Schuck\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nKatharina Imkeller\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\nLucie Marie Hasse\n\n\nStudent Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nZeina Yasser\n\n\nStudent Assistant\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/index.html#b-cell-responses-and-tertiary-lymphoid-structures-in-solid-tumours",
-    "href": "projects/index.html#b-cell-responses-and-tertiary-lymphoid-structures-in-solid-tumours",
-    "title": "Projects",
-    "section": "B cell responses and tertiary lymphoid structures in solid tumours",
-    "text": "B cell responses and tertiary lymphoid structures in solid tumours\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+    "objectID": "team/index.html#alumni",
+    "href": "team/index.html#alumni",
+    "title": "AG Imkeller",
+    "section": "Alumni",
+    "text": "Alumni\nAlexander Schleiter, Student Assistant\nHarshit Jindal, MSc Student Intern"
   },
   {
-    "objectID": "projects/immunogenetics.html",
-    "href": "projects/immunogenetics.html",
-    "title": "Computational method development for human immunogenetics",
-    "section": "",
-    "text": "Immune molecules such as B and T cell receptors, human leukocyte antigens (HLAs) and killer Ig-like receptors (KIRs) are encoded in the most diverse genetic loci in the human genome. Bioinformatic methods commonly used to analyse immune responses in large patient cohorts do not take into account this immunogenetic diversity, which leads to erroneous quantification of important immune mediators and impaired inter-donor comparability. Our research group develops robust bioinformatic methods and software tools for reproducible research on human immune responses and immunogenetic diversity in multidimensional immunological datasets. We greatly acknowledge funding from CZI.\n\narXiv Preprint | Code\n\n\nimmunotation - R/Bioconductor package\nThis package provides tools for consistent annotation of HLA genes in typical immunoinformatics workflows such as for example the prediction of MHC-presented peptides in different human donors."
-  },
-  {
-    "objectID": "projects/immunogenetics.html#computational-method-development-for-human-immunogenetics",
-    "href": "projects/immunogenetics.html#computational-method-development-for-human-immunogenetics",
-    "title": "Packages",
-    "section": "",
-    "text": "Immune molecules such as B and T cell receptors, human leukocyte antigens (HLAs) and killer Ig-like receptors (KIRs) are encoded in the most diverse genetic loci in the human genome. Bioinformatic methods commonly used to analyse immune responses in large patient cohorts do not take into account this immunogenetic diversity, which leads to erroneous quantification of important immune mediators and impaired inter-donor comparability. Our research group develops robust bioinformatic methods and software tools for reproducible research on human immune responses and immunogenetic diversity in multidimensional immunological datasets. We greatly acknowledge funding from: CZI\n\narXiv Preprint | Code"
-  },
-  {
-    "objectID": "projects/immunogenetics.html#packages",
-    "href": "projects/immunogenetics.html#packages",
-    "title": "Computational method development for human immunogenetics",
-    "section": "",
-    "text": "immunotation - R/Bioconductor package\nThis package provides tools for consistent annotation of HLA genes in typical immunoinformatics workflows such as for example the prediction of MHC-presented peptides in different human donors."
-  },
-  {
-    "objectID": "projects/bcells.html",
-    "href": "projects/bcells.html",
-    "title": "B cell responses and tertiary lymphoid structures in solid tumours",
-    "section": "",
-    "text": "The presence of adaptive immune cells in solid tumours is typically associated with improved patient survival and response to immunotherapy. The adaptive anti-tumor immune response extends beyond the paradigm in which CD8 T cells can recognize tumour antigens and eliminate tumour cells by means of cellular cytotoxicity. In fact, a variety of different adaptive immune cells are educated towards tumour antigens in draining lymph nodes or in lymphoid aggregates also known as tertiary lymphoid structures that are formed within a tumour itself.\nOur research group aims to understand the molecular architecture and cellular dynamics within tertiary lymphoid structures by integrating high-dimensional data from spatial transcriptomics, single-cell transcriptomics and adaptive immune receptor repertoire profiling. We collaborate with multiple clinical partners to study adaptive immune responses in different types of tumours.\n\narXiv Preprint | Code"
-  },
-  {
-    "objectID": "projects/bcells.html#packages",
-    "href": "projects/bcells.html#packages",
-    "title": "B cell responses and tertiary lymphoid structures in solid tumours",
-    "section": "",
-    "text": "immunotation - R/Bioconductor package\nThis package provides tools for consistent annotation of HLA genes in typical immunoinformatics workflows such as for example the prediction of MHC-presented peptides in different human donors."
-  },
-  {
-    "objectID": "team/ahmad.html",
-    "href": "team/ahmad.html",
-    "title": "Ahmad Al Ajami",
-    "section": "",
-    "text": "Research\nPhD Student, Neurologisches Institut (Edinger Institut), Universitätsklinikum Frankfurt, Germany\nMSc Student, Group of Statistical Bioinformatics, University of Zürich, Switzerland\nMSc Student, Department of Cancer Immunotherapy Discovery, Roche, Switzerland\n\n\n\nEducation\nMaster of Science in Computational Biology and Bioinformatics, ETH, Switzerland\nBachelor of Science in Genetics and Bioinformatics, Bahcesehir University, Turkey\nErasmus Semester, University of Copenhagen, Denmark\nExchange Student, Syracuse University, USA"
-  },
-  {
-    "objectID": "team/jonas.html",
-    "href": "team/jonas.html",
-    "title": "Jonas Schuck",
-    "section": "",
-    "text": "Research\nPhD Student, Neurologisches Institut (Edinger Institut), Universitätsklinikum Frankfurt, Germany\n\n\nEducation\nMaster of Science in Bioinformatics, Goethe University Frankfurt\nBachelor of Science in Applied Bioinformatics, Technische Hochschule Bingen"
-  },
-  {
-    "objectID": "team/lucie.html",
-    "href": "team/lucie.html",
-    "title": "Lucie Marie Hasse",
-    "section": "",
-    "text": "Research\nStudent Assistant at Edinger Institute, University Clinic Frankfurt am Main (2021-now)\n\n\nEducation\nMaster of Science in Bioinformatics, Goethe University Frankfurt (2023-now)\nBachelor of Science in Bioinformatics, Goethe University Frankfurt (2020-2023)"
-  },
-  {
-    "objectID": "team/katharina.html",
-    "href": "team/katharina.html",
-    "title": "Katharina Imkeller",
-    "section": "",
-    "text": "Research\nSince 2021 Junior Group Leader, MSNZ/FCI/Edinger Institut, Frankfurt\nPostdoc, German Cancer Research Center and European Molecular Biology Laboratory, Heidelberg\nPhD Student, German Cancer Research Center, Heidelberg\nPhD Student, Max-Planck Institute for Infection Biology, Berlin\n\n\nEducation\nMaster of Science in Molecular Medicine, Charité University Berlin\nBachelor of Science in Biophysics, Humboldt University Berlin\n\n\nAwards and Scholarships\nDoctoral Thesis Prize from the German Society for Biochemistry and Molecular Biology\nEMBO short term fellowship\nFellowship of the Cusanuswerk\n\n\nPublications\nView publications on Europe PMC"
-  },
-  {
-    "objectID": "team/aakanksha.html",
-    "href": "team/aakanksha.html",
-    "title": "Aakanksha Singh",
-    "section": "",
-    "text": "Research\nPhD Student, Neurologisches Institut (Edinger Institut), Universitätsklinikum Frankfurt, Germany\nMSc Student, GATAC- Malaria Group at LPHI, University of Montpelier, France\nMSc Student, Group of Social Evolution, University of Lausanne, Switzerland\n\n\nEducation\nErasmus Mundus Masters in Evolutionary Biology, University of Groningen (The Netherlands)\nUniversity of Montpellier (France) BSc (Hons) Zoology, University of Delhi (India)"
-  },
-  {
-    "objectID": "team/zeina.html",
-    "href": "team/zeina.html",
-    "title": "Zeina Yasser",
-    "section": "",
-    "text": "Research\nStudent Assistant at Edinger Institute, University Clinic Frankfurt am Main (2023-now)\n\n\nEducation\nCurrent: Master of Physical Biology of Cells and Cell Interactions, Goethe University, Frankfurt am Main\nBachelor of Biotechnology, Misr University for Science and Technology, Egypt"
+    "objectID": "team/index.html#field-trips",
+    "href": "team/index.html#field-trips",
+    "title": "AG Imkeller",
+    "section": "Field Trips",
+    "text": "Field Trips\n\n\n\n\n  EuroBioC 2023 Gent  \n\n\n\n\n\n  EuroBioC 2023 Gent"
   },
   {
     "objectID": "openpositions/index.html",
     "href": "openpositions/index.html",
     "title": "Open Positions",
     "section": "",
-    "text": "Data scientist/bioinformatician (AN: 1081-2023)\nResearch technician - Quantitative Immunology (AN: 1079-2023)\nPost-doctoral researcher - Quantitative Immunology (AN: 1080-2023)\n\n\n\nWe offer jobs for student assistants to work in an exciting and interdisciplinary environment and directly contribute to our current research projects. Candidates should have hands-on experience in programming (R or python) and linux operating systems.\nResearch tasks:\n\nsoftware development and data analysis for our ongoing research projects\ndevelopment of interactive visualization tools for our collaborative research projects\ndata management and software maintenance\n\nApplications via email to ag.imkeller | gmail.com - please include a motivation letter, CV and transcripts of records.\n\n\n\nWe offer internships, Bachelor’s and Master’s theses in different research areas of computational immunology.\n\n\nOlder Projects\n\n\nApplications via email to ag.imkeller | gmail.com - please include a motivation letter, CV and transcripts of records."
+    "text": "We are recruiting a research technician in quantitative immunology to contribute to our ongoing tumor-immunological research projects. The candidate should have experience in one or more of the following fields: tumor immunology, immunohistochemistry, flow cytometry, molecular biology, next generation sequencing, single-cell/spatial transcriptomics.\nPlease use the following link to apply: AN: 1079-2023\n\n\n\n\nWe are recruiting a postdoctoral researcher to investigate adaptive immune responses and organ-specific immune niches in solid tumors. The candidate will be responsible to design and conduct spatial omics experiments and to analyse and interpret resulting large scale data. Experimental techniques include flow cytometry, spatial transcriptomics, single-cell transcriptomics and multiplex imaging.\nYour profile:\n\nPhD in biology, molecular medicine, immunology, biophysics or related field\nHands-on experience in flow cytometry and molecular biology. Experience with single-cell sequencing and/or omics-techniques are beneficial.\nData analysis skills (Python or R) will be helpful and can be extended as part of the postdoctoral training.\nStrong interest in immunology or cancer biology.\n\nPlease use the following link to apply: AN: 1080-2023\n\n\n\nAs a data scientist in quantitative immunology you will actively contribute to the software development and data analysis for our ongoing tumor-immunological research projects and closely interact with our clinical collaboration partners.\nYour profile:\n\nHands-on experience in analysing (single-cell/spatial) transcriptomic data.\nProficiency linux operating systems and software development using R or python.\nStrong interest in immunology or cancer biology.\n\nPlease use the following link to apply: AN: 1081-2023\n\n\n\n\nWe offer jobs for student assistants to work in an exciting and interdisciplinary environment and directly contribute to our current research projects. Candidates should have hands-on experience in programming (R or python) and linux operating systems. The student assistant needs to be enrolled in a study program at a university in Germany.\nResearch tasks:\n\nsoftware development and data analysis for our ongoing research projects\ndevelopment of interactive visualization tools for our collaborative research projects\ndata management and software maintenance\n\nApplications via email to ag.imkeller | gmail.com - please include a motivation letter, CV and transcripts of records.\n\n\n\nWe offer internships, Bachelor’s and Master’s theses in different research areas of computational immunology.\n\n\nOur current research projects\n\n\nApplications via email to ag.imkeller | gmail.com - please include a motivation letter, CV and transcripts of records."
   },
   {
-    "objectID": "impressum.html",
-    "href": "impressum.html",
-    "title": "Impressum",
+    "objectID": "openpositions/index.html#research-positions",
+    "href": "openpositions/index.html#research-positions",
+    "title": "Open Positions",
     "section": "",
-    "text": "Impressum\nKatharina Imkeller, Theodor-Stern-Kai 7, 60590 Frankfurt am Main\nKontakt: Katharina Imkeller\n\n\nHaftung für Links\nTrotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.\n\n\nUrheberrecht\nDie von uns erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen unserer schriftlichen Zustimmung. Soweit die Inhalte auf dieser Seite nicht von uns erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.\n\n\nDatenschutz\nDie Nutzung dieser Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich."
+    "text": "Data scientist/bioinformatician (AN: 1081-2023)\nResearch technician - Quantitative Immunology (AN: 1079-2023)\nPost-doctoral researcher - Quantitative Immunology (AN: 1080-2023)"
   },
   {
     "objectID": "openpositions/index.html#student-assistants-hiwi-10-20hweek",
     "href": "openpositions/index.html#student-assistants-hiwi-10-20hweek",
     "title": "Open Positions",
     "section": "",
-    "text": "We offer jobs for student assistants to work in an exciting and interdisciplinary environment and directly contribute to our current research projects. Candidates should have hands-on experience in programming (R or python) and linux operating systems.\nResearch tasks:\n\nsoftware development and data analysis for our ongoing research projects\ndevelopment of interactive visualization tools for our collaborative research projects\ndata management and software maintenance\n\nApplications via email to ag.imkeller | gmail.com - please include a motivation letter, CV and transcripts of records."
+    "text": "We offer jobs for student assistants to work in an exciting and interdisciplinary environment and directly contribute to our current research projects. Candidates should have hands-on experience in programming (R or python) and linux operating systems. The student assistant needs to be enrolled in a study program at a university in Germany.\nResearch tasks:\n\nsoftware development and data analysis for our ongoing research projects\ndevelopment of interactive visualization tools for our collaborative research projects\ndata management and software maintenance\n\nApplications via email to ag.imkeller | gmail.com - please include a motivation letter, CV and transcripts of records."
   },
   {
     "objectID": "openpositions/index.html#thesis-projects-bscmsc-and-student-internships",
     "href": "openpositions/index.html#thesis-projects-bscmsc-and-student-internships",
     "title": "Open Positions",
     "section": "",
-    "text": "We offer internships, Bachelor’s and Master’s theses in different research areas of computational immunology.\n\n\nOlder Projects\n\n\nApplications via email to ag.imkeller | gmail.com - please include a motivation letter, CV and transcripts of records."
+    "text": "We offer internships, Bachelor’s and Master’s theses in different research areas of computational immunology.\n\n\nOur current research projects\n\n\nApplications via email to ag.imkeller | gmail.com - please include a motivation letter, CV and transcripts of records."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Our immune system is a powerful and versatile weapon to combat invading pathogens and emerging tumors. However, both pathogens and tumor cells frequently develop strategies to evade the elimination by immune cells. The mechanisms of tumour-immune evasion are multifaceted and arise from tumor intrinsic factors but also from the complex interplay between a cancer and its microenvironment."
+  },
+  {
+    "objectID": "projects/index.html#research-projects",
+    "href": "projects/index.html#research-projects",
+    "title": "Projects",
+    "section": "Research Projects",
+    "text": "Research Projects\n\nTertiary lymphoid structures in solid tumours\n\n\n\n\nspatial aspects of tumor-immunity\n\nadaptive immune cell repertoires in solid tumours\n\nimmune cell interactions and clonal dynamics\n… more\n\n\n\n\n\n\n\n\n\nComputational methods for human immunogenetics\n\n\n\n\nhuman immunogenetic diversity\n\nantigen specificity of immune receptors\n\ndevelopment of bioinformatic methods for human immunology\n… more"
+  },
+  {
+    "objectID": "projects/index.html#bsc-and-msc-projects",
+    "href": "projects/index.html#bsc-and-msc-projects",
+    "title": "Projects",
+    "section": "BSc and MSc Projects",
+    "text": "BSc and MSc Projects\n\n\n\n\n\n\n\n\nTitle\nAuthor\nStudy Programme\n\n\n\n\nLinking Adaptive Immune Receptor Repertoires to Spatial Organization of Tumor Infiltrating Lymphocytes\nLucie Marie Hasse\nBSc Bioinformatics (Goethe University)\n\n\nDevelopment of a multi-layer R object to study immune gene expression in spatial (and single-cell) transcriptomics at allele, gene and functional level\nJonas Schuck\nMSc Bioinformatics (Goethe University)"
   },
   {
     "objectID": "projects/projects/bcells.html",
@@ -208,27 +103,6 @@
     "title": "B cell responses and tertiary lymphoid structures in solid tumours",
     "section": "",
     "text": "The presence of adaptive immune cells in solid tumours is typically associated with improved patient survival and response to immunotherapy. The adaptive anti-tumor immune response extends beyond the paradigm in which CD8 T cells can recognize tumour antigens and eliminate tumour cells by means of cellular cytotoxicity. In fact, a variety of different adaptive immune cells are educated towards tumour antigens in draining lymph nodes or in lymphoid aggregates also known as tertiary lymphoid structures that are formed within a tumour itself.\nOur research group aims to understand the molecular architecture and cellular dynamics within tertiary lymphoid structures by integrating high-dimensional data from spatial transcriptomics, single-cell transcriptomics and adaptive immune receptor repertoire profiling. We collaborate with multiple clinical partners to study adaptive immune responses in different types of tumours."
-  },
-  {
-    "objectID": "team/members/katharina.html",
-    "href": "team/members/katharina.html",
-    "title": "Katharina Imkeller",
-    "section": "",
-    "text": "Research\nSince 2021 Junior Group Leader, MSNZ/FCI/Edinger Institut, Frankfurt\nPostdoc, German Cancer Research Center and European Molecular Biology Laboratory, Heidelberg\nPhD Student, German Cancer Research Center, Heidelberg\nPhD Student, Max-Planck Institute for Infection Biology, Berlin\n\n\nEducation\nMaster of Science in Molecular Medicine, Charité University Berlin\nBachelor of Science in Biophysics, Humboldt University Berlin\n\n\nAwards and Scholarships\nDoctoral Thesis Prize from the German Society for Biochemistry and Molecular Biology\nEMBO short term fellowship\nFellowship of the Cusanuswerk\n\n\nPublications\nView publications on Europe PMC"
-  },
-  {
-    "objectID": "team/members/aakanksha.html",
-    "href": "team/members/aakanksha.html",
-    "title": "Aakanksha Singh",
-    "section": "",
-    "text": "Research\nPhD Student, Neurologisches Institut (Edinger Institut), Universitätsklinikum Frankfurt, Germany\nMSc Student, GATAC- Malaria Group at LPHI, University of Montpelier, France\nMSc Student, Group of Social Evolution, University of Lausanne, Switzerland\n\n\n\nEducation\nErasmus Mundus Masters in Evolutionary Biology, University of Groningen (The Netherlands)\nUniversity of Montpellier (France) BSc (Hons) Zoology, University of Delhi (India)"
-  },
-  {
-    "objectID": "team/members/ahmad.html",
-    "href": "team/members/ahmad.html",
-    "title": "Ahmad Al Ajami",
-    "section": "",
-    "text": "Research\nPhD Student, Neurologisches Institut (Edinger Institut), Universitätsklinikum Frankfurt, Germany\nMSc Student, Group of Statistical Bioinformatics, University of Zürich, Switzerland\nMSc Student, Department of Cancer Immunotherapy Discovery, Roche, Switzerland\n\n\n\nEducation\nMaster of Science in Computational Biology and Bioinformatics, ETH, Switzerland\nBachelor of Science in Genetics and Bioinformatics, Bahcesehir University, Turkey\nErasmus Semester, University of Copenhagen, Denmark\nExchange Student, Syracuse University, USA"
   },
   {
     "objectID": "projects/projects/immunogenetics.html",
@@ -245,53 +119,25 @@
     "text": "immunotation — R/Bioconductor package\nThis package provides tools for consistent annotation of HLA genes in typical immunoinformatics workflows such as for example the prediction of MHC-presented peptides in different human donors."
   },
   {
-    "objectID": "team/members/jonas.html",
-    "href": "team/members/jonas.html",
-    "title": "Jonas Schuck",
+    "objectID": "impressum.html",
+    "href": "impressum.html",
+    "title": "Impressum",
     "section": "",
-    "text": "Research\nPhD Student, Neurologisches Institut (Edinger Institut), Universitätsklinikum Frankfurt, Germany\n\n\nEducation\nMaster of Science in Bioinformatics, Goethe University Frankfurt\nBachelor of Science in Applied Bioinformatics, Technische Hochschule Bingen"
+    "text": "Impressum\nKatharina Imkeller, Theodor-Stern-Kai 7, 60590 Frankfurt am Main\nKontakt: Katharina Imkeller\n\n\nHaftung für Links\nTrotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.\n\n\nUrheberrecht\nDie von uns erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen unserer schriftlichen Zustimmung. Soweit die Inhalte auf dieser Seite nicht von uns erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.\n\n\nDatenschutz\nDie Nutzung dieser Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich."
   },
   {
-    "objectID": "team/members/lucie.html",
-    "href": "team/members/lucie.html",
-    "title": "Lucie Marie Hasse",
-    "section": "",
-    "text": "Research\nStudent Assistant at Edinger Institute, University Clinic Frankfurt am Main (2021-now)\n\n\nEducation\nMaster of Science in Bioinformatics, Goethe University Frankfurt (2023-now)\nBachelor of Science in Bioinformatics, Goethe University Frankfurt (2020-2023)"
-  },
-  {
-    "objectID": "team/members/zeina.html",
-    "href": "team/members/zeina.html",
-    "title": "Zeina Yasser",
-    "section": "",
-    "text": "Research\nStudent Assistant at Edinger Institute, University Clinic Frankfurt am Main (2023-now)\n\n\nEducation\nCurrent: Master of Physical Biology of Cells and Cell Interactions, Goethe University, Frankfurt am Main\nBachelor of Biotechnology, Misr University for Science and Technology, Egypt"
-  },
-  {
-    "objectID": "team/listing_startingpage.html",
-    "href": "team/listing_startingpage.html",
-    "title": "Team Members",
-    "section": "",
-    "text": "Aakanksha Singh\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhmad Al Ajami\n\n\n\n\n\n\n\n\n\n\n\n\n\nJonas Schuck\n\n\n\n\n\n\n\n\n\n\n\n\n\nKatharina Imkeller\n\n\n\n\n\n\n\n\n\n\n\n\n\nLucie Marie Hasse\n\n\n\n\n\n\n\n\n\n\n\n\n\nZeina Yasser\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "team/members/lucie.html#lucie-marie-hasse",
-    "href": "team/members/lucie.html#lucie-marie-hasse",
-    "title": "AG Imkeller",
-    "section": "Lucie Marie Hasse",
-    "text": "Lucie Marie Hasse"
-  },
-  {
-    "objectID": "team/members/lucie.html#research",
-    "href": "team/members/lucie.html#research",
+    "objectID": "team/members/jonas.html#research",
+    "href": "team/members/jonas.html#research",
     "title": "AG Imkeller",
     "section": "Research",
-    "text": "Research\nStudent Assistant at Edinger Institute, University Clinic Frankfurt am Main, Germany (2021-now)\nStudent Intern, Robinson Lab, Department of Molecular Life Sciences, University of Zurich, Switzerland\nStudent Intern, Hiller Lab, LOEWE Centre for translational biodiversity genomics, Frankfurt am Main, Germany"
+    "text": "Research\nPhD Student, Neurologisches Institut (Edinger Institut), Universitätsklinikum Frankfurt, Germany"
   },
   {
-    "objectID": "team/members/lucie.html#education",
-    "href": "team/members/lucie.html#education",
+    "objectID": "team/members/jonas.html#education",
+    "href": "team/members/jonas.html#education",
     "title": "AG Imkeller",
     "section": "Education",
-    "text": "Education\nMaster of Science in Bioinformatics, Goethe University Frankfurt,Germany (2023-now)\nBachelor of Science in Bioinformatics, Goethe University Frankfurt, Germany (2020-now)"
+    "text": "Education\nMaster of Science in Bioinformatics, Goethe University Frankfurt\nBachelor of Science in Applied Bioinformatics, Technische Hochschule Bingen"
   },
   {
     "objectID": "team/members/aakanksha.html#research",
@@ -308,32 +154,32 @@
     "text": "Education\nErasmus Mundus Masters in Evolutionary Biology, University of Groningen, the Netherlands\nUniversity of Montpellier (France) BSc (Hons) Zoology, University of Delhi, India"
   },
   {
-    "objectID": "team/members/ahmad.html#research",
-    "href": "team/members/ahmad.html#research",
+    "objectID": "team/members/lucie.html#research",
+    "href": "team/members/lucie.html#research",
     "title": "AG Imkeller",
     "section": "Research",
-    "text": "Research\nPhD Student, Neurologisches Institut (Edinger Institut), Universitätsklinikum Frankfurt, Germany\nMSc Student, Group of Statistical Bioinformatics, University of Zürich, Switzerland\nMSc Student, Department of Cancer Immunotherapy Discovery, Roche, Switzerland"
+    "text": "Research\nStudent Assistant at Edinger Institute, University Clinic Frankfurt am Main, Germany (2021-now)\nStudent Intern, Robinson Lab, Department of Molecular Life Sciences, University of Zurich, Switzerland\nStudent Intern, Hiller Lab, LOEWE Centre for translational biodiversity genomics, Frankfurt am Main, Germany"
   },
   {
-    "objectID": "team/members/ahmad.html#education",
-    "href": "team/members/ahmad.html#education",
+    "objectID": "team/members/lucie.html#education",
+    "href": "team/members/lucie.html#education",
     "title": "AG Imkeller",
     "section": "Education",
-    "text": "Education\nMaster of Science in Computational Biology and Bioinformatics, ETH, Switzerland\nBachelor of Science in Genetics and Bioinformatics, Bahcesehir University, Turkey\nErasmus Semester, University of Copenhagen, Denmark\nExchange Student, Syracuse University, USA"
+    "text": "Education\nMaster of Science in Bioinformatics, Goethe University Frankfurt,Germany (2023-now)\nBachelor of Science in Bioinformatics, Goethe University Frankfurt, Germany (2020-now)"
   },
   {
-    "objectID": "team/members/jonas.html#research",
-    "href": "team/members/jonas.html#research",
+    "objectID": "team/members/zeina.html#research",
+    "href": "team/members/zeina.html#research",
     "title": "AG Imkeller",
     "section": "Research",
-    "text": "Research\nPhD Student, Neurologisches Institut (Edinger Institut), Universitätsklinikum Frankfurt, Germany"
+    "text": "Research\nStudent Assistant at Edinger Institute, University Clinic Frankfurt am Main"
   },
   {
-    "objectID": "team/members/jonas.html#education",
-    "href": "team/members/jonas.html#education",
+    "objectID": "team/members/zeina.html#education",
+    "href": "team/members/zeina.html#education",
     "title": "AG Imkeller",
     "section": "Education",
-    "text": "Education\nMaster of Science in Bioinformatics, Goethe University Frankfurt\nBachelor of Science in Applied Bioinformatics, Technische Hochschule Bingen"
+    "text": "Education\nCurrent: Master of Physical Biology of Cells and Cell Interactions, Goethe University, Frankfurt am Main\nBachelor of Biotechnology, Misr University for Science and Technology, Egypt"
   },
   {
     "objectID": "team/members/katharina.html#research",
@@ -364,108 +210,52 @@
     "text": "Publications\nView publications on Europe PMC"
   },
   {
-    "objectID": "team/members/zeina.html#research",
-    "href": "team/members/zeina.html#research",
+    "objectID": "team/members/ahmad.html#research",
+    "href": "team/members/ahmad.html#research",
     "title": "AG Imkeller",
     "section": "Research",
-    "text": "Research\nStudent Assistant at Edinger Institute, University Clinic Frankfurt am Main"
+    "text": "Research\nPhD Student, Neurologisches Institut (Edinger Institut), Universitätsklinikum Frankfurt, Germany\nMSc Student, Group of Statistical Bioinformatics, University of Zürich, Switzerland\nMSc Student, Department of Cancer Immunotherapy Discovery, Roche, Switzerland"
   },
   {
-    "objectID": "team/members/zeina.html#education",
-    "href": "team/members/zeina.html#education",
+    "objectID": "team/members/ahmad.html#education",
+    "href": "team/members/ahmad.html#education",
     "title": "AG Imkeller",
     "section": "Education",
-    "text": "Education\nCurrent: Master of Physical Biology of Cells and Cell Interactions, Goethe University, Frankfurt am Main\nBachelor of Biotechnology, Misr University for Science and Technology, Egypt"
+    "text": "Education\nMaster of Science in Computational Biology and Bioinformatics, ETH, Switzerland\nBachelor of Science in Genetics and Bioinformatics, Bahcesehir University, Turkey\nErasmus Semester, University of Copenhagen, Denmark\nExchange Student, Syracuse University, USA"
   },
   {
-    "objectID": "team/index.html#alumni",
-    "href": "team/index.html#alumni",
-    "title": "AG Imkeller",
-    "section": "Alumni",
-    "text": "Alumni\nAlexander Schleiter, Student Assistant\nHarshit Jindal, MSc Student Intern"
-  },
-  {
-    "objectID": "team/members/jens.html#research",
-    "href": "team/members/jens.html#research",
-    "title": "AG Imkeller",
-    "section": "Research",
-    "text": "Research\nStudent Assistant at Edinger Institute, University Clinic Frankfurt am Main, Germany (2021-now)\nStudent Intern, Robinson Lab, Department of Molecular Life Sciences, University of Zurich, Switzerland\nStudent Intern, Hiller Lab, LOEWE Centre for translational biodiversity genomics, Frankfurt am Main, Germany"
-  },
-  {
-    "objectID": "team/members/jens.html#education",
-    "href": "team/members/jens.html#education",
-    "title": "AG Imkeller",
-    "section": "Education",
-    "text": "Education\nMaster of Science in Bioinformatics, Goethe University Frankfurt,Germany (2023-now)\nBachelor of Science in Bioinformatics, Goethe University Frankfurt, Germany (2020-now)"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Group of Computational Immunology",
-    "section": "News",
-    "text": "News\nDec 1, 2023 — Jens Mayer is our new MSc Intern\nNov 1, 2023 — Jonas Schuck is our new PhD Student"
-  },
-  {
-    "objectID": "team/index.html#team",
-    "href": "team/index.html#team",
-    "title": "AG Imkeller",
-    "section": "Team",
-    "text": "Team\n\n\n\n\n\n\n\n\n\n\nAakanksha Singh\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhmad Al Ajami\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nJonas Schuck\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nKatharina Imkeller\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\nLucie Marie Hasse\n\n\nStudent Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nZeina Yasser\n\n\nStudent Assistant\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "team/index.html#field-trips",
-    "href": "team/index.html#field-trips",
-    "title": "AG Imkeller",
-    "section": "Field Trips",
-    "text": "Field Trips\n\n\n\n\n  EuroBioC 2023 Gent  \n\n\n\n\n\n  EuroBioC 2023 Gent"
-  },
-  {
-    "objectID": "projects/index.html#bsc-and-msc-projects",
-    "href": "projects/index.html#bsc-and-msc-projects",
-    "title": "Projects",
-    "section": "BSc and MSc Projects",
-    "text": "BSc and MSc Projects\n\n\n\n\n\n\n\n\nTitle\nAuthor\nStudy Programme\n\n\n\n\nLinking Adaptive Immune Receptor Repertoires to Spatial Organization of Tumor Infiltrating Lymphocytes\nLucie Marie Hasse\nBSc Bioinformatics (Goethe University)\n\n\nDevelopment of a multi-layer R object to study immune gene expression in spatial (and single-cell) transcriptomics at allele, gene and functional level\nJonas Schuck\nMSc Bioinformatics (Goethe University)"
-  },
-  {
-    "objectID": "projects/index.html#phd-projects",
-    "href": "projects/index.html#phd-projects",
-    "title": "Projects",
-    "section": "PhD Projects",
-    "text": "PhD Projects\n\n\n\n\n  \n\n\n\n\nB cell responses and tertiary lymphoid structures in solid tumours\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nComputational method development for human immunogenetics\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#fundings-and-affiliations",
-    "href": "index.html#fundings-and-affiliations",
-    "title": "Group of Computational Immunology",
-    "section": "Fundings and Affiliations",
-    "text": "Fundings and Affiliations"
-  },
-  {
-    "objectID": "team/members/other/jens.html#research",
-    "href": "team/members/other/jens.html#research",
-    "title": "AG Imkeller",
-    "section": "Research",
-    "text": "Research\nStudent Assistant at Edinger Institute, University Clinic Frankfurt am Main, Germany (2021-now)\nStudent Intern, Robinson Lab, Department of Molecular Life Sciences, University of Zurich, Switzerland\nStudent Intern, Hiller Lab, LOEWE Centre for translational biodiversity genomics, Frankfurt am Main, Germany"
-  },
-  {
-    "objectID": "team/members/other/jens.html#education",
-    "href": "team/members/other/jens.html#education",
-    "title": "AG Imkeller",
-    "section": "Education",
-    "text": "Education\nMaster of Science in Bioinformatics, Goethe University Frankfurt,Germany (2023-now)\nBachelor of Science in Bioinformatics, Goethe University Frankfurt, Germany (2020-now)"
-  },
-  {
-    "objectID": "openpositions/index.html#research-positions",
-    "href": "openpositions/index.html#research-positions",
+    "objectID": "openpositions/index.html#data-scientistbioinformatician",
+    "href": "openpositions/index.html#data-scientistbioinformatician",
     "title": "Open Positions",
     "section": "",
-    "text": "Data scientist/bioinformatician (AN: 1081-2023)\nResearch technician - Quantitative Immunology (AN: 1079-2023)\nPost-doctoral researcher - Quantitative Immunology (AN: 1080-2023)"
+    "text": "As a data scientist in quantitative immunology you will actively contribute to the software development and data analysis for our ongoing tumor-immunological research projects and closely interact with our clinical collaboration partners.\nYour profile:\n\nHands-on experience in analysing (single-cell/spatial) transcriptomic data.\nProficiency linux operating systems and software development using R or python.\nStrong interest in immunology or cancer biology.\n\nPlease use the following link to apply: AN: 1081-2023"
   },
   {
-    "objectID": "projects/index.html#research-projects",
-    "href": "projects/index.html#research-projects",
-    "title": "Projects",
+    "objectID": "openpositions/index.html#research-technician---quantitative-immunology",
+    "href": "openpositions/index.html#research-technician---quantitative-immunology",
+    "title": "Open Positions",
+    "section": "",
+    "text": "We are recruiting a research technician in quantitative immunology to contribute to our ongoing tumor-immunological research projects. The candidate should have experience in one or more of the following fields: tumor immunology, immunohistochemistry, flow cytometry, molecular biology, next generation sequencing, single-cell/spatial transcriptomics.\nPlease use the following link to apply: AN: 1079-2023"
+  },
+  {
+    "objectID": "openpositions/index.html#post-doctoral-researcher---quantitative-immunology",
+    "href": "openpositions/index.html#post-doctoral-researcher---quantitative-immunology",
+    "title": "Open Positions",
+    "section": "",
+    "text": "We are recruiting a postdoctoral researcher to investigate adaptive immune responses and organ-specific immune niches in solid tumors. The candidate will be responsible to design and conduct spatial omics experiments and to analyse and interpret resulting large scale data. Experimental techniques include flow cytometry, spatial transcriptomics, single-cell transcriptomics and multiplex imaging.\nYour profile:\n\nPhD in biology, molecular medicine, immunology, biophysics or related field\nHands-on experience in flow cytometry and molecular biology. Experience with single-cell sequencing and/or omics-techniques are beneficial.\nData analysis skills (Python or R) will be helpful and can be extended as part of the postdoctoral training.\nStrong interest in immunology or cancer biology.\n\nPlease use the following link to apply: AN: 1080-2023"
+  },
+  {
+    "objectID": "index.html#research-projects",
+    "href": "index.html#research-projects",
+    "title": "Group of Computational Immunology",
     "section": "Research Projects",
-    "text": "Research Projects\n\n\n\n\n  \n\n\n\n\nB cell responses and tertiary lymphoid structures in solid tumours\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nComputational method development for human immunogenetics\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "Research Projects\nWe use quantitative approaches to study the heterogeneity of human immune responses in cancer. Our research projects cover different areas of quatitative immunology and oncology:\n\nB and T cell receptor repertoires, human immunogenetics\nSpatial dynamics of adaptive tumor-immune interactions\nComputational method development for human immunology\n\nClick here to learn more about our latest research projects."
+  },
+  {
+    "objectID": "index.html#funding-and-affiliations",
+    "href": "index.html#funding-and-affiliations",
+    "title": "Group of Computational Immunology",
+    "section": "Funding and Affiliations",
+    "text": "Funding and Affiliations"
   }
 ]

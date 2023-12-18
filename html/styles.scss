@@ -308,7 +308,7 @@ body {
 }
 
 .button-mail {
-  background: linear-gradient(to bottom right, #f44b59, #fc956a);
+  background: linear-gradient(to bottom right, $teal, $gray-600);
   border: 0;
   border-radius: 12px;
   color: #FFFFFF;
@@ -332,11 +332,11 @@ body {
 }
 
 .button-mail:not([disabled]):focus {
-  box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem #F66F7A, .125rem .125rem 1rem #f2a176;
+  box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem $gray-500, .125rem .125rem 1rem $gray-500;
 }
 
 .button-mail:not([disabled]):hover {
-  box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem #F66F7A, .125rem .125rem 1rem #f2a176;
+  box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem $gray-500, .125rem .125rem 1rem $gray-500;
 }
 
 

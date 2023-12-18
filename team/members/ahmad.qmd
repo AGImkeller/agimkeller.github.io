@@ -22,9 +22,9 @@ format:
 <div class="vertical-line">
 </div>
 
-<div  class="content">
+<div  class="content-person">
 
-  <img src="../../img/Ahmad.JPG" alt="Avatar"> 
+  <img-round src="../../img/Ahmad.JPG" alt="Avatar"> 
 
   <center>
   <a class="button-linkedin" href="https://www.linkedin.com/in/ahmad-al-ajami-2ba577168/s" role="button"><i class="bi-linkedin"></i> Ahmad Al Ajami</a>

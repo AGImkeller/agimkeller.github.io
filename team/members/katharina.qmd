@@ -25,7 +25,7 @@ format:
 
 <div  class="content">
 
-  <img src="../../img/imkeller.jpg" alt="Avatar"> 
+  <img-round src="../../img/imkeller.jpg" alt="Avatar"> 
 
   <center>
   <a class="button-x" href="https://twitter.com/K_Imkeller" role="button"><i class="bi-twitter"></i> k_imkeller</a>

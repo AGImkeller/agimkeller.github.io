@@ -25,7 +25,7 @@ format:
 
 <div  class="content">
 
-  <img src="../../img/lucie.jpg" alt="Avatar"> 
+  <img-round src="../../img/lucie.jpg" alt="Avatar"> 
 
   <center>
   <a class="button-linkedin" href="https://www.linkedin.com/in/lucie-marie-hasse-045497256/" role="button"><i class="bi-linkedin"></i> Lucie Marie Hasse</a>

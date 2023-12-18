@@ -25,7 +25,7 @@ format:
 
 <div  class="content">
 
-  <img src="../../img/jonas.jpg" alt="Avatar"> 
+  <img-round src="../../img/jonas.jpg" alt="Avatar"> 
 
   <center>
   <a class="button-linkedin" href="https://www.linkedin.com/in/jonas-schuck-9b519a220/" role="button"><i class="bi-linkedin"></i> Jonas Schuck</a>

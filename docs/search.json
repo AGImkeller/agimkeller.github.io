@@ -32,7 +32,7 @@
     "href": "team/index.html#team",
     "title": "AG Imkeller",
     "section": "Team",
-    "text": "Team\n\n\n\n\n\n\n\n\n\n\nAakanksha Singh\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhmad Al Ajami\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nJonas Schuck\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nKatharina Imkeller\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\nLucie Marie Hasse\n\n\nStudent Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nZeina Yasser\n\n\nStudent Assistant\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Team\n\n\n\n\n\n\n\n\n\n\nAakanksha Singh\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhmad Al Ajami\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nJens Mayer\n\n\nMaster Intern\n\n\n\n\n\n\n\n\n\n\n\n\n\nJonas Schuck\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nKatharina Imkeller\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\nLucie Marie Hasse\n\n\nStudent Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nZeina Yasser\n\n\nStudent Assistant\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "team/index.html#alumni",
@@ -264,5 +264,12 @@
     "title": "Computational method development for human immunogenetics",
     "section": "",
     "text": "%%::: {.g-col-12 .g-col-md-6 .animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}\n\n:::{immunogenetics-members, .g-col-1}\n\n:::"
+  },
+  {
+    "objectID": "team/members/jens.html#education",
+    "href": "team/members/jens.html#education",
+    "title": "AG Imkeller",
+    "section": "Education",
+    "text": "Education\nMaster’s student in Bioinformatics, Goethe University Frankfurt, Germany\nBachelor of Science in Bioinformatics, Goethe University Frankfurt, Germany"
   }
 ]

@@ -53,7 +53,7 @@ We offer internships, Bachelor’s and Master’s theses in different research a
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="button-52" href="../projects/index.qmd" role="button" target="_blank" style="link-color: black; link-hover-decoration: none; color: black;">Our current research projects</a>
+<a class="button-52" href="../projects/index.qmd" role="button" target="_blank" style="link-color: #495057; link-hover-decoration: none; color: #495057;">Our current research projects</a>
 </div>
 
 ```

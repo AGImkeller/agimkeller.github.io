@@ -40,7 +40,7 @@ Please [contact us](mailto:ag.imkeller@gmail.com) if you're interested in collab
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="button-52" href="openpositions/index.qmd" role="button" target="_blank" style="link-color: black; link-hover-decoration: none; color: black;">We're hiring!</a>
+<a class="button-52" href="openpositions/index.qmd" role="button" target="_blank" style="link-color: #495057; link-hover-decoration: none; color: #495057;">We're hiring!</a>
 </div>
 
 ```

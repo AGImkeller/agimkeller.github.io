@@ -1,0 +1,51 @@
+---
+title: "Jens Mayer"
+page-layout: custom
+image: "../../img/jens.jpg"
+abstract: "Master Intern"
+date: 11-01-2023
+about:
+  template: trestles
+comments: false
+format:
+  html:
+    css: ../html/styles.scss
+---
+
+
+::: {.grid}
+
+::: {.g-col-5}
+\
+\
+
+
+<div class="vertical-line">
+</div>
+
+<div  class="content">
+
+  <img class="img-round" src="../../img/jens.jpg" alt="Avatar"> 
+
+  <center>
+  <a class="button-mail" role="button"><i class="bi-envelope"></i> jens.mayer | stud.uni-frankfurt.de</a>
+  </center>
+  
+</div>
+
+:::
+
+
+::: {.g-col-5}
+
+<p>&emsp;</p>
+
+# Jens Mayer
+
+## Education
+**Master's student in Bioinformatics**, Goethe University Frankfurt, Germany \
+**Bachelor of Science in Bioinformatics**, Goethe University Frankfurt, Germany
+
+:::
+
+:::

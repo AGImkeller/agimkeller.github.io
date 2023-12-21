@@ -9,7 +9,7 @@ about:
 comments: false
 format:
   html:
-    css: style.scss
+    css: ../html/styles.scss
 ---
 
 
@@ -25,7 +25,7 @@ format:
 
 <div  class="content">
 
-  <img src="../../img/Zeina.jpeg" alt="Avatar"> 
+  <img class="img-round" src="../../img/Zeina.jpeg" alt="Avatar"> 
 
   <center>
   <a class="button-linkedin" href="https://www.linkedin.com/in/zeina-yasserr/" role="button"><i class="bi-linkedin"></i> Zeina Yasser</a>

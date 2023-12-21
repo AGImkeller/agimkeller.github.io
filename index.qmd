@@ -4,20 +4,27 @@ image: "img/logo_receptor.png"
 
 about:
   template: trestles
+  image-width: 20%
   links:
-    - text: K_Imkeller
-      icon: twitter
-      url: "https://twitter.com/K_Imkeller"
     - text: AGImkeller
       icon: github
       url: "https://github.com/AGImkeller"
-    - text: ag.imkeller | gmail.com
+    - text: ag.imkeller|gmail.com
       icon: envelope-fill
     - text: Frankfurt am Main
       icon: geo-alt-fill
       url: "https://maps.app.goo.gl/CMsLp4TGBAtipw5p9"
+
 comments: false
 ---
+
+  <!-- <center> -->
+  <!-- <a class="button-mail" href="https://twitter.com/K_Imkeller" role="button"><i class="bi-twitter"></i> K_Imkeller</a> -->
+  <!-- <a class="button-mail" href="https://github.com/AGImkeller" role="button"><i class="bi-github"></i> AGimkeller</a> -->
+  <!-- <a class="button-mail" role="button"><i class="bi-envelope"></i> ag.imkeller|gmail.com</a> -->
+  <!-- <a class="button-mail" href="https://maps.app.goo.gl/CMsLp4TGBAtipw5p9" role="button"><i class="bi-geo-alt-fill"></i> Frankfurt am Main</a> -->
+  <!-- </center> -->
+  
 
 ::: column-page
 :::
@@ -66,9 +73,9 @@ Nov 1, 2023 --- **Jonas Schuck** has started his PhD thesis in our group. \
 ## Funding and Affiliations
  
 <div class="bodyimgstyle">
-  <a href="https://www.krebshilfe.de/"><img src="img/1200px-Deutsche_Krebshilfe_Logo.svg.png" alt="Avatar" style="width:40%; margin:10px;"></a>
-  <a href="https://www.kgu.de/"><img src="img/1280px-Logo-Goethe-University-Frankfurt-am-Main.svg.png" alt="Avatar" style="width:30%; margin:10px;"></a>
+  <a href="https://www.krebshilfe.de/"><img src="img/1200px-Deutsche_Krebshilfe_Logo.svg.png" alt="Avatar" style="width:35%; margin:10px;"></a>
+  <a href="https://www.kgu.de/"><img src="img/1280px-Logo-Goethe-University-Frankfurt-am-Main.svg.png" alt="Avatar" style="width:20%; margin:10px;"></a>
   <a href="https://www.uct-frankfurt.de/"><img src="img/csm_LOGO_UCT_4c_fin_fb46359da9.png" alt="Avatar" style="width:40%; margin:10px;"></a>
-  <a href="https://fci.health/en/"><img src="img/FCI-Logo.png" alt="Avatar" style="width:30%; margin:10px;"></a>
+  <a href="https://fci.health/en/"><img src="img/FCI-Logo.png" alt="Avatar" style="width:20%; margin:10px;"></a>
 </div>
 :::

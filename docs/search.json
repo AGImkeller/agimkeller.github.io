@@ -25,21 +25,7 @@
     "href": "openpositions/index.html",
     "title": "Open Positions",
     "section": "",
-    "text": "Team in 2022"
-  },
-  {
-    "objectID": "team/index.html#team",
-    "href": "team/index.html#team",
-    "title": "AG Imkeller",
-    "section": "Team",
-    "text": "Team\n\n\n\n\n\n\n\n\n\n\nAakanksha Singh\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhmad Al Ajami\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nJens Mayer\n\n\nMaster Intern\n\n\n\n\n\n\n\n\n\n\n\n\n\nJonas Schuck\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nKatharina Imkeller\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\nLucie Marie Hasse\n\n\nStudent Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nZeina Yasser\n\n\nStudent Assistant\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "team/index.html#alumni",
-    "href": "team/index.html#alumni",
-    "title": "AG Imkeller",
-    "section": "Alumni",
-    "text": "Alumni\nAlexander Schleiter, Student Assistant\nHarshit Jindal, MSc Student Intern"
+    "text": "We are recruiting a research technician in quantitative immunology to contribute to our ongoing tumor-immunological research projects. The candidate should have experience in one or more of the following fields: tumor immunology, immunohistochemistry, flow cytometry, molecular biology, next generation sequencing, single-cell/spatial transcriptomics.\nPlease use the following link to apply: AN: 1079-2023\n\n\n\n\nWe are recruiting a postdoctoral researcher to investigate adaptive immune responses and organ-specific immune niches in solid tumors. The candidate will be responsible to design and conduct spatial omics experiments and to analyse and interpret resulting large scale data. Experimental techniques include flow cytometry, spatial transcriptomics, single-cell transcriptomics and multiplex imaging.\nYour profile:\n\nPhD in biology, molecular medicine, immunology, biophysics or related field\nHands-on experience in flow cytometry and molecular biology. Experience with single-cell sequencing and/or omics-techniques are beneficial.\nData analysis skills (Python or R) will be helpful and can be extended as part of the postdoctoral training.\nStrong interest in immunology or cancer biology.\n\nPlease use the following link to apply: AN: 1080-2023\n\n\n\nAs a data scientist in quantitative immunology you will actively contribute to the software development and data analysis for our ongoing tumor-immunological research projects and closely interact with our clinical collaboration partners.\nYour profile:\n\nHands-on experience in analysing (single-cell/spatial) transcriptomic data.\nProficiency linux operating systems and software development using R or python.\nStrong interest in immunology or cancer biology.\n\nPlease use the following link to apply: AN: 1081-2023\n\n\n\n\nWe offer computational jobs for student assistants to work in an exciting and interdisciplinary environment and directly contribute to our current research projects. Candidates should have hands-on experience in programming (R or python) and linux operating systems. The student assistant needs to be enrolled in a study program at a university in Germany.\nResearch tasks:\n\nsoftware development and data analysis for our ongoing research projects\ndevelopment of interactive visualization tools for our collaborative research projects\ndata management and software maintenance\n\nApplications via email to ag.imkeller | gmail.com - please include a motivation letter, CV and transcripts of records.\n\n\n\nWe offer internships, Bachelor’s and Master’s theses in different research areas of quantitative immunology. The research projects can be either experimental or computational.\n\n\nOur current research projects\n\n\nApplications via email to ag.imkeller | gmail.com - please include a motivation letter, CV and transcripts of records."
   },
   {
     "objectID": "openpositions/index.html#research-technician---quantitative-immunology",
@@ -137,7 +123,7 @@
     "href": "team/index.html#team",
     "title": "AG Imkeller",
     "section": "Team",
-    "text": "Team\n\n\n\n\n\n\n\n\n\n\nAakanksha Singh\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhmad Al Ajami\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nJonas Schuck\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nKatharina Imkeller\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\nLucie Marie Hasse\n\n\nStudent Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nZeina Yasser\n\n\nStudent Assistant\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Team\n\n\n\n\n\n\n\n\n\n\nAakanksha Singh\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhmad Al Ajami\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nJens Mayer\n\n\nMaster Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nJonas Schuck\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nKatharina Imkeller\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\nLucie Marie Hasse\n\n\nStudent Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nZeina Yasser\n\n\nStudent Assistant\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "team/index.html#alumni",
@@ -152,6 +138,13 @@
     "title": "AG Imkeller",
     "section": "Field Trips",
     "text": "Field Trips\n\n\n\n\n  EuroBioC 2023 Gent  \n\n\n\n\n\n  EuroBioC 2023 Gent"
+  },
+  {
+    "objectID": "team/members/jens.html#education",
+    "href": "team/members/jens.html#education",
+    "title": "AG Imkeller",
+    "section": "Education",
+    "text": "Education\nMaster’s student in Bioinformatics, Goethe University Frankfurt, Germany\nBachelor of Science in Bioinformatics, Goethe University Frankfurt, Germany"
   },
   {
     "objectID": "team/members/jonas.html#research",
@@ -249,54 +242,6 @@
     "href": "team/members/ahmad.html#education",
     "title": "AG Imkeller",
     "section": "Education",
-  },
-  {
-    "objectID": "openpositions/index.html#data-scientistbioinformatician",
-    "href": "openpositions/index.html#data-scientistbioinformatician",
-    "title": "Open Positions",
-    "section": "",
-    "text": "As a data scientist in quantitative immunology you will actively contribute to the software development and data analysis for our ongoing tumor-immunological research projects and closely interact with our clinical collaboration partners.\nYour profile:\n\nHands-on experience in analysing (single-cell/spatial) transcriptomic data.\nProficiency linux operating systems and software development using R or python.\nStrong interest in immunology or cancer biology.\n\nPlease use the following link to apply: AN: 1081-2023"
-  },
-  {
-    "objectID": "openpositions/index.html#research-technician---quantitative-immunology",
-    "href": "openpositions/index.html#research-technician---quantitative-immunology",
-    "title": "Open Positions",
-    "section": "",
-    "text": "We are recruiting a research technician in quantitative immunology to contribute to our ongoing tumor-immunological research projects. The candidate should have experience in one or more of the following fields: tumor immunology, immunohistochemistry, flow cytometry, molecular biology, next generation sequencing, single-cell/spatial transcriptomics.\nPlease use the following link to apply: AN: 1079-2023"
-  },
-  {
-    "objectID": "openpositions/index.html#post-doctoral-researcher---quantitative-immunology",
-    "href": "openpositions/index.html#post-doctoral-researcher---quantitative-immunology",
-    "title": "Open Positions",
-    "section": "",
-    "text": "We are recruiting a postdoctoral researcher to investigate adaptive immune responses and organ-specific immune niches in solid tumors. The candidate will be responsible to design and conduct spatial omics experiments and to analyse and interpret resulting large scale data. Experimental techniques include flow cytometry, spatial transcriptomics, single-cell transcriptomics and multiplex imaging.\nYour profile:\n\nPhD in biology, molecular medicine, immunology, biophysics or related field\nHands-on experience in flow cytometry and molecular biology. Experience with single-cell sequencing and/or omics-techniques are beneficial.\nData analysis skills (Python or R) will be helpful and can be extended as part of the postdoctoral training.\nStrong interest in immunology or cancer biology.\n\nPlease use the following link to apply: AN: 1080-2023"
-  },
-  {
-    "objectID": "index.html#research-projects",
-    "href": "index.html#research-projects",
-    "title": "Group of Computational Immunology",
-    "section": "Research Projects",
-    "text": "Research Projects\nWe use quantitative approaches to study the heterogeneity of human immune responses in cancer. Our research projects cover different areas of quatitative immunology and oncology:\n\nB and T cell receptor repertoires, human immunogenetics\nSpatial dynamics of adaptive tumor-immune interactions\nComputational method development for human immunology\n\nClick here to learn more about our latest research projects."
-  },
-  {
-    "objectID": "index.html#funding-and-affiliations",
-    "href": "index.html#funding-and-affiliations",
-    "title": "Group of Computational Immunology",
-    "section": "Funding and Affiliations",
-    "text": "Funding and Affiliations"
-  },
-  {
-    "objectID": "projects/projects/immunogenetics.html#contributors",
-    "href": "projects/projects/immunogenetics.html#contributors",
-    "title": "Computational method development for human immunogenetics",
-    "section": "",
-    "text": "%%::: {.g-col-12 .g-col-md-6 .animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}\n\n:::{immunogenetics-members, .g-col-1}\n\n:::"
-  },
-  {
-    "objectID": "team/members/jens.html#education",
-    "href": "team/members/jens.html#education",
-    "title": "AG Imkeller",
-    "section": "Education",
-    "text": "Education\nMaster’s student in Bioinformatics, Goethe University Frankfurt, Germany\nBachelor of Science in Bioinformatics, Goethe University Frankfurt, Germany"
+    "text": "Education\nMaster of Science in Computational Biology and Bioinformatics, ETH, Switzerland\nBachelor of Science in Genetics and Bioinformatics, Bahcesehir University, Turkey\nErasmus Semester, University of Copenhagen, Denmark\nExchange Student, Syracuse University, USA"
   }
 ]

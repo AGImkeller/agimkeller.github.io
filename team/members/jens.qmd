@@ -2,7 +2,7 @@
 title: "Jens Mayer"
 page-layout: custom
 image: "../../img/jens.jpg"
-abstract: "Master Intern"
+abstract: "Master Student"
 date: 11-01-2023
 about:
   template: trestles

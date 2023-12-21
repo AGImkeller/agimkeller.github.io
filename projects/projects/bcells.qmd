@@ -20,6 +20,7 @@ listing:
     - "../../team/members/aakanksha.qmd"
     - "../../team/members/lucie.qmd"
     - "../../team/members/zeina.qmd"
+    - "../../team/members/jens.qmd"
     - "../../team/members/katharina.qmd"
 ---
 

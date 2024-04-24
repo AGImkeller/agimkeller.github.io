@@ -45,17 +45,17 @@ format:
 # Katharina Imkeller
 
 ## Research
-Since 2023 W2-Professor for Translational Neurooncology and Quantitative Immunology, Goethe University Frankfurt\
+**Since 2023 W2-Professor for Translational Neurooncology and Quantitative Immunology**, Goethe University Frankfurt\
 
-Junior Group Leader in Computational Immunology,
+**Junior Group Leader in Computational Immunology**,
 MSNZ/FCI/Edinger Institut, Frankfurt \
 
-Postdoc, German Cancer Research Center and
+**Postdoc**, German Cancer Research Center and
 European Molecular Biology Laboratory, Heidelberg \
 
-PhD Student, German Cancer Research Center, Heidelberg \
+**PhD Student**, German Cancer Research Center, Heidelberg \
 
-PhD Student, Max-Planck Institute for Infection Biology, Berlin
+**PhD Student**, Max-Planck Institute for Infection Biology, Berlin
 
 
 ## Education
@@ -64,7 +64,9 @@ PhD Student, Max-Planck Institute for Infection Biology, Berlin
 
 ## Awards and Scholarships
 Doctoral Thesis Prize from the German Society for Biochemistry and Molecular Biology \
+
 EMBO short term fellowship \
+
 Fellowship of the Cusanuswerk
 
 ## Publications

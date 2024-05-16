@@ -1,25 +1,5 @@
 # Open Positions
 
-## Research technician - Quantitative Immunology
-
-We are recruiting a research technician in quantitative immunology to contribute to our ongoing tumor-immunological research projects. The candidate should have experience in one or more of the following fields: tumor immunology, immunohistochemistry, flow cytometry, molecular biology, next generation sequencing, single-cell/spatial transcriptomics.
-
-Please use the following link to apply: [AN: 1079-2023](https://short.sg/j/39413244) \
-
-
-## Post-doctoral researcher - Quantitative Immunology
-
-We are recruiting a postdoctoral researcher to investigate adaptive immune responses and organ-specific immune niches in solid tumors. The candidate will be responsible to design and conduct spatial omics experiments and to analyse and interpret resulting large scale data. Experimental techniques include flow cytometry, spatial transcriptomics, single-cell transcriptomics and multiplex imaging. 
-
-**Your profile:**
-
-- PhD in biology, molecular medicine, immunology, biophysics or related field
-- Hands-on experience in flow cytometry and molecular biology. Experience with single-cell sequencing and/or omics-techniques are beneficial.
-- Data analysis skills (Python or R) will be helpful and can be extended as part of the postdoctoral training.
-- Strong interest in immunology or cancer biology.
-
-Please use the following link to apply: [AN: 1080-2023](https://short.sg/j/39414511)
-
 
 ## Data scientist/bioinformatician
 
@@ -31,7 +11,7 @@ As a data scientist in quantitative immunology you will actively contribute to t
 - Proficiency linux operating systems and software development using R or python. 
 - Strong interest in immunology or cancer biology.
 
-Please use the following link to apply: [AN: 1081-2023](https://short.sg/j/39410906) \
+If you are interested in applying to this position please contact [Katharina Imkeller](../team/members/katharina.qmd). \
 
 
 ## Student assistants (HiWi, 10-20h/week)
@@ -44,7 +24,7 @@ We offer computational jobs for student assistants to work in an exciting and in
 - development of interactive visualization tools for our collaborative research projects
 - data management and software maintenance
 
-Applications via email to [ag.imkeller | gmail.com](mailto:ag.imkeller@gmail.com) - please include a motivation letter, CV and transcripts of records.
+If you are interested in applying to this position please contact [Katharina Imkeller](../team/members/katharina.qmd) - please include a motivation letter, CV and transcripts of records.
 
 
 ## Thesis projects (BSc/MSc) and student internships
@@ -58,4 +38,4 @@ We offer internships, Bachelor’s and Master’s theses in different research a
 
 ```
 
-Applications via email to [ag.imkeller | gmail.com]() - please include a motivation letter, CV and transcripts of records.
+If you are interested in applying to this position please contact [Katharina Imkeller](../team/members/katharina.qmd) - please include a motivation letter, CV and transcripts of records.

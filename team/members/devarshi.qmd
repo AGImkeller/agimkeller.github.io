@@ -1,0 +1,57 @@
+---
+title: "Devarshi Gandhi"
+image: "../../img/devarshi.jpg"
+page-layout: custom
+abstract: "Student Assistant"
+date: 05-01-2024
+about:
+  template: trestles
+comments: false
+format:
+  html:
+    css: ../html/styles.scss
+---
+
+
+::: {.grid}
+
+::: {.g-col-5}
+\
+\
+
+
+<div class="vertical-line">
+</div>
+
+<div  class="content">
+
+  <img class="img-round" src="../../img/devarshi.jpg" alt="Avatar"> 
+
+  <center>
+  <a class="button-mail" role="button"><i class="bi-envelope"></i> Gandhi | med.uni-frankfurt.de</a>
+  </center>
+  
+</div>
+
+:::
+
+
+::: {.g-col-5}
+
+<p>&emsp;</p>
+
+# Devarshi Gandhi
+
+## Research
+**Student Assistant at Edinger Institute**, University Clinic Frankfurt am Main, Germany - Now \
+**MSc student, Immunohistochemistry Department**, The Gujarat Cancer & Research Institute, India
+
+
+## Education
+**Master of Science in Molecular Biotechnology** , Anhalt University of Applied Sciences, Germany - Now \
+**Master of Science in Cancer Biology**, The Gujarat Cancer & Research Institute, India \
+**Bachelor of Science in Biotechnology**, The Gujarat University, India
+
+:::
+
+:::

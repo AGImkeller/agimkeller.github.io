@@ -61,10 +61,11 @@ Click [here](projects/index.qmd) to learn more about our latest research project
 
 ::: {.g-col-12 .g-col-md-6 .animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
 ## News
-May 1, 2024 --- **Devarshi Gandhi** has joined the group as student assistant for wetlab work. \
-Apr 1, 2024 --- **Samira Ortega Iannazzo** has started her position as Post Doc in our group. \
-Dec 1, 2023 --- **Jens Mayer** has joined the group as master student (Bioinformatics).\
-Nov 1, 2023 --- **Jonas Schuck** has started his PhD thesis in our group. \
+July 8, 2024 --- Our paper on Glioma-associated tertiary lymphoid structures is now available as [preprint](https://www.biorxiv.org/content/10.1101/2024.07.04.602038v1.full). \
+May 1, 2024 --- [**Devarshi Gandhi**](team/members/devarshi.qmd) has joined the group as student assistant for experimental work. \
+Apr 1, 2024 --- [**Samira Ortega Iannazzo**](team/members/samira.qmd) has started her position as Postdoctoral Researcher in our group. \
+Dec 1, 2023 --- [**Jens Mayer**](team/members/jens.qmd) has joined the group as Master's student in bioinformatics. \
+Nov 1, 2023 --- [**Jonas Schuck**](team/members/jonas.qmd) has started his PhD position in our group. \
 \
 
 :::

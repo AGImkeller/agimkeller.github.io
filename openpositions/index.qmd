@@ -7,9 +7,9 @@ As a data scientist in quantitative immunology you will actively contribute to t
 
 **Your profile:**
 
-- Hands-on experience in analysing (single-cell/spatial) transcriptomic data. 
-- Proficiency linux operating systems and software development using R or python. 
-- Strong interest in immunology or cancer biology.
+- Hands-on experience in analysing (single-cell/spatial) transcriptomic data
+- Proficiency linux operating systems and software development using R or python
+- Strong interest in immunology or cancer biology
 
 If you are interested in applying to this position please contact [Katharina Imkeller](../team/members/katharina.qmd). \
 
@@ -20,9 +20,9 @@ We offer computational jobs for student assistants to work in an exciting and in
 
 **Research tasks:**
 
-- software development and data analysis for our ongoing research projects
-- development of interactive visualization tools for our collaborative research projects
-- data management and software maintenance
+- Software development and data analysis for our ongoing research projects
+- Development of interactive visualization tools for our collaborative research projects
+- Data management and software maintenance
 
 If you are interested in applying to this position please contact [Katharina Imkeller](../team/members/katharina.qmd) - please include a motivation letter, CV and transcripts of records.
 

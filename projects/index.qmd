@@ -14,7 +14,9 @@ Our immune system is a powerful and versatile weapon to combat invading pathogen
 - spatial aspects of the tumor microenvironment\
 - adaptive immune cell repertoires in solid tumours\
 - immune cell interactions and clonal dynamics\
-[... more](projects/bcells.qmd)
+[... more](projects/bcells.qmd)\
+\
+Check out our [preprint](https://www.biorxiv.org/content/10.1101/2024.07.04.602038v1.full) on tertiary lymphoid structures in Glioma.
 
 <div class="container" style="width:50%">
   <a href="projects/bcells.qmd"><img src="../img/bcells.png" alt="Avatar" style="width:100%"></a>

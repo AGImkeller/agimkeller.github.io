@@ -30,7 +30,7 @@ format:
   <center>
   <a class="button-x" href="https://twitter.com/K_Imkeller" role="button"><i class="bi-twitter"></i> k_imkeller</a>
   <a class="button-github" href="https://github.com/imkeller" role="button"><i class="bi-github"></i> imkeller</a>
-  <a class="button-mail" role="button"><i class="bi-envelope"></i> imkeller|rz.uni-frankfurt.de</a>
+  <a class="button-mail" role="button"><i class="bi-envelope"></i> imkeller|med.uni-frankfurt.de</a>
   </center>
   
 </div>

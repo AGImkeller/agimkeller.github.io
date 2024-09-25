@@ -64,8 +64,6 @@ Click [here](projects/index.qmd) to learn more about our latest research project
 July 8, 2024 --- Our paper on Glioma-associated tertiary lymphoid structures is now available as [preprint](https://www.biorxiv.org/content/10.1101/2024.07.04.602038v1.full). \
 May 1, 2024 --- [**Devarshi Gandhi**](team/members/devarshi.qmd) has joined the group as student assistant for experimental work. \
 Apr 1, 2024 --- [**Samira Ortega Iannazzo**](team/members/samira.qmd) has started her position as Postdoctoral Researcher in our group. \
-Dec 1, 2023 --- [**Jens Mayer**](team/members/jens.qmd) has joined the group as Master's student in bioinformatics. \
-Nov 1, 2023 --- [**Jonas Schuck**](team/members/jonas.qmd) has started his PhD position in our group. \
 \
 
 :::
@@ -77,7 +75,7 @@ Nov 1, 2023 --- [**Jonas Schuck**](team/members/jonas.qmd) has started his PhD p
  
 <div class="bodyimgstyle">
   <a href="https://www.krebshilfe.de/"><img src="img/1200px-Deutsche_Krebshilfe_Logo.svg.png" alt="Avatar" style="width:35%; margin:10px;"></a>
-  <a href="https://www.kgu.de/"><img src="img/1280px-Logo-Goethe-University-Frankfurt-am-Main.svg.png" alt="Avatar" style="width:20%; margin:10px;"></a>
+  <a href="https://www.unimedizin-ffm.de/"><img src="img/1280px-Logo-Goethe-University-Frankfurt-am-Main.svg.png" alt="Avatar" style="width:20%; margin:10px;"></a>
   <a href="https://www.uct-frankfurt.de/"><img src="img/csm_LOGO_UCT_4c_fin_fb46359da9.png" alt="Avatar" style="width:40%; margin:10px;"></a>
   <a href="https://fci.health/en/"><img src="img/FCI-Logo.png" alt="Avatar" style="width:20%; margin:10px;"></a>
 </div>

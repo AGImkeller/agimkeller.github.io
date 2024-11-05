@@ -11,7 +11,7 @@
     "href": "index.html#news",
     "title": "Group of Computational Immunology",
     "section": "News",
-    "text": "News\nJuly 8, 2024 — Our paper on Glioma-associated tertiary lymphoid structures is now available as preprint.\nMay 1, 2024 — Devarshi Gandhi has joined the group as student assistant for experimental work.\nApr 1, 2024 — Samira Ortega Iannazzo has started her position as Postdoctoral Researcher in our group.\nDec 1, 2023 — Jens Mayer has joined the group as Master’s student in bioinformatics.\nNov 1, 2023 — Jonas Schuck has started his PhD position in our group."
+    "text": "News\nJuly 8, 2024 — Our paper on Glioma-associated tertiary lymphoid structures is now available as preprint.\nMay 1, 2024 — Devarshi Gandhi has joined the group as student assistant for experimental work.\nApr 1, 2024 — Samira Ortega Iannazzo has started her position as Postdoctoral Researcher in our group."
   },
   {
     "objectID": "index.html#funding-and-affiliations",
@@ -81,7 +81,7 @@
     "href": "projects/index.html#bsc-and-msc-projects",
     "title": "Projects",
     "section": "BSc and MSc Projects",
-    "text": "BSc and MSc Projects\n\n\n\n\n\n\n\n\nTitle\nAuthor\nStudy Programme\n\n\n\n\nLinking Adaptive Immune Receptor Repertoires to Spatial Organization of Tumor Infiltrating Lymphocytes\nLucie Marie Hasse\nBSc Bioinformatics (Goethe University)\n\n\nDevelopment of a multi-layer R object to study immune gene expression in spatial (and single-cell) transcriptomics at allele, gene and functional level\nJonas Schuck\nMSc Bioinformatics (Goethe University)"
+    "text": "BSc and MSc Projects\n\n\n\n\n\n\n\n\nTitle\nAuthor\nStudy Programme\n\n\n\n\nInferring cell-cell interactions in the brain metastasis microenvironment\nJens Mayer\nMSc Bioinformatics (Goethe University)\n\n\nDevelopment of a multi-layer R object to study immune gene expression in spatial (and single-cell) transcriptomics at allele, gene and functional level\nJonas Schuck\nMSc Bioinformatics (Goethe University)\n\n\nLinking Adaptive Immune Receptor Repertoires to Spatial Organization of Tumor Infiltrating Lymphocytes\nLucie Marie Hasse\nBSc Bioinformatics (Goethe University)"
   },
   {
     "objectID": "projects/projects/bcells.html",
@@ -123,14 +123,14 @@
     "href": "team/index.html#team",
     "title": "AG Imkeller",
     "section": "Team",
-    "text": "Team\n\n\n\n\n\n\n\n\n\n\nAakanksha Singh\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhmad Al Ajami\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nDevarshi Gandhi\n\n\nStudent Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nJens Mayer\n\n\nMaster’s Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nJonas Schuck\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nKatharina Imkeller\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\nLucie Marie Hasse\n\n\nStudent Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nSamira Ortega Iannazzo\n\n\nPost Doc\n\n\n\n\n\n\n\n\n\n\n\n\n\nZeina Yasser\n\n\nStudent Assistant\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Team\n\n\n\n\n\n\n\n\n\n\nAakanksha Singh\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nAhmad Al Ajami\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nDevarshi Gandhi\n\n\nStudent Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nJonas Schuck\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nKatharina Imkeller\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\nLucie Marie Hasse\n\n\nStudent Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\nSamira Ortega Iannazzo\n\n\nPost Doc\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "team/index.html#alumni",
     "href": "team/index.html#alumni",
     "title": "AG Imkeller",
     "section": "Alumni",
-    "text": "Alumni\nAlexander Schleiter, Student Assistant\nHarshit Jindal, MSc Student Intern"
+    "text": "Alumni\nJens Mayer, MSc Student\nZeina Yasser, Student Assistant\nAlexander Schleiter, Student Assistant\nHarshit Jindal, MSc Student Intern"
   },
   {
     "objectID": "team/index.html#field-trips",

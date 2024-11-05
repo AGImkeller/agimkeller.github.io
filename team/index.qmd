@@ -32,6 +32,8 @@ format:
 
 ## Alumni
 
+**Jens Mayer**, MSc Student \
+**Zeina Yasser**, Student Assistant \
 **Alexander Schleiter**, Student Assistant \
 **Harshit Jindal**, MSc Student Intern
 

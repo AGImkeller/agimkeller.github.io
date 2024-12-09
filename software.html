@@ -1,0 +1,107 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+        <link rel="shortcut icon" href="images/logo_receptor.png" />
+		<title>Software - AG Imkeller</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong>AG Imkeller</strong> <span>Quantitative Immunology</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+                            <li><a href="index.html">Home</a></li>
+							<li><a href="research.html">Research</a></li>
+							<li><a href="software.html">Software</a></li>
+							<li><a href="team.html">Team</a></li>
+							<li><a href="publications.html">Publications</a></li>
+							<li><a href="recruit.html">Join us</a></li>
+						</ul>
+					</nav>
+
+
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Software</h1>
+									</header>
+
+									<!-- Content -->
+										<h2 id="content">SingleCellAlleleExperiment</h2>
+										<p>Defines a S4 class that is based on the R/Bioconductor package SingleCellExperiment. In addition to the usual gene layer the object can also store data for immune genes such as HLAs, Igs and KIRs at allele and functional level. The package is part of a workflow named single-cell ImmunoGenomic Diversity (scIGD), that firstly incorporates allele-aware quantification data for immune genes. This new data can then be used with the here implemented data structure and functionalities for further data handling and data analysis.</p>
+										
+                                        <ul class="actions">
+											<li><a href="https://bioconductor.org/packages/SingleCellAlleleExperiment/" class="button">view on Bioconductor</a></li>
+                                        </ul>
+										
+                                    <hr class="major" />
+                                    
+                                    <!-- Content -->
+										<h2 id="content">scIGD</h2>
+										<p>Immune molecules such as B and T cell receptors, human leukocyte antigens (HLAs) or killer Ig-like receptors (KIRs) are encoded in the genetically most diverse loci of the human genome. Many of these immune genes are hyperpolymorphic, showing high allelic diversity across human populations. In addition, typical immune molecules are polygenic, which means that multiple functionally similar genes encode the same protein subunit. However, integrative single-cell methods commonly used to analyze immune cells in large patient cohorts do not consider this. This leads to erroneous quantification of important immune mediators and impaired inter-donor comparability, which ultimately obscures immunological information contained in the data. In response to these challenges, we introduce scIGD. This Snakemake workflow not only automates HLA allele-typing processes, but also enables allele-specific quantification from single-cell RNA-sequencing (scRNA-seq) data.</p>
+										
+										<ul class="actions">
+											<li><a href="https://github.com/AGImkeller/scIGD/" class="button">view on github</a></li>
+                                        </ul>
+										
+                                    <hr class="major" />
+                                    
+                                    <h2 id="content">immunotation</h2>
+										<p>MHC (major histocompatibility complex) molecules are cell surface complexes that present antigens to T cells. The repertoire of antigens presented in a given genetic background largely depends on the sequence of the encoded MHC molecules, and thus, in humans, on the highly variable HLA (human leukocyte antigen) genes of the hyperpolymorphic HLA locus. More than 28,000 different HLA alleles have been reported, with significant differences in allele frequencies between human populations worldwide. Reproducible and consistent annotation of HLA alleles in large-scale bioinformatics workflows remains challenging, because the available reference databases and software tools often use different HLA naming schemes. The package immunotation provides tools for consistent annotation of HLA genes in typical immunoinformatics workflows such as for example the prediction of MHC-presented peptides in different human donors. Converter functions that provide mappings between different HLA naming schemes are based on the MHC restriction ontology (MRO). The package also provides automated access to HLA alleles frequencies in worldwide human reference populations stored in the Allele Frequency Net Database. </p>
+										
+										<ul class="actions">
+											<li><a href="https://bioconductor.org/packages/immunotation/" class="button">view on Bioconductor</a></li>
+                                        </ul>
+                                        
+                                         <hr class="major" />
+										
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://github.com/agimkeller" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								
+							</ul>
+							<ul class="copyright">
+                                <li>&copy; Katharina Imkeller</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li><li><a href="impressum.html">Impressum</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
